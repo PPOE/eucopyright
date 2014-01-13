@@ -59,6 +59,14 @@ div.radio:not(.isChecked) {
   display: none;
 }
 
+#lang {
+  float: right;
+}
+#lang i {
+  vertical-align: middle;
+  margin-right: .2em;
+}
+
 blockquote.guide {
   line-height: 1.5em;
   background-color: transparent;
