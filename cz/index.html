@@ -1,0 +1,109 @@
+---
+layout: base
+title: "Pomozte s reformou autorského práva! "
+icon: http://copywrongs.eu/img/30c3/icon.png
+language: cz
+---
+<style type="text/css"> @import "../css/30c3.css"; </style>
+<style type="text/css"> @import "../css/font-awesome.min.css"; </style>
+<script type="text/javascript" src="../js/30c3.js"></script>
+<script type="text/javascript">
+var guideSlug = 'crew_30c3_cz'
+</script>
+
+<div class="container step-start">
+  <div id="step-start" class="jumbotron">
+
+    {% include 30c3_lang.html lang="cz" %}
+    
+    <h1>Pomozte s reformou autorského práva! !</h1>
+
+    <p><strong>Evropská unie má zájem vyslechnout si váš názor ohledně reformy autorského práva.</strong> Proto jsme připravili tuto stránku, která by vám mohla pomoci v sestavení odpovědí na <a href="https://ameliaandersdotter.eu/europaisches-urheberrecht-und-ihr-macht-mit">oficiální konzultace Evropské komise</a>. A to jednoduše tím, že nemusíte odpovídat na otázky, které se vás netýkají. Společně dokážeme, aby byl náš názor vyslyšen!</p>
+    <p><small>A ještě něco: Můžete odpovědět na tyto otázky <a href="http://de.wikipedia.org/wiki/Amtssprache_%28Europ%C3%A4ische_Union%29">v jakémkoliv evropském jazyce</a>, který vám příjde dostatečně vhodný!</small></p>
+
+    <h2>Se kterým z následujících problémů spojených s autorským právem v EU jste se již setkali?</h2>
+    <ul>
+      {% include problem.html key="youtube" text="Videa z Youtube nejsou v mé zemi dostupná" %}
+      {% include problem.html key="imagesharing" text="Současná právní úprava ohledně sdílení obrázků prostřednictvím služeb, jako je Facebook nebo Tumblr je nepřehledná/nejasná." %}
+      {% include problem.html key="filesharingconfusion" text="Současná právní úprava ohledně sdílení souborů/torrentů je nepřehledná, či jsem měl dokonce problémy spojené se sdílením souborů a torrenty" %}
+      {% include problem.html key="drm" text="Nemohu užívat audiovizuální díla, neboť mě omezuje DRM - de facto mám na internetu méně svobody, než bych měl v analogovém světě, nebo sdílel tato díla offline." %}
+      <!-- TODO {% include problem.html key="resell" text="I have spent a lot of money on digital music tracks and books, but I cannot sell the ones I no longer want / need." %}-->
+      {% include problem.html key="mediacountry" text="Diverse Medien sind in meinem Land nicht zu kaufen oder eine Website, die ich verwenden wollte, war in meinem EU-Land nicht verfügbar" %}
+      {% include problem.html key="remix" text="Obávám se upravovat různá díla a remixovat je, protože se bojím právního postihu." %}
+      {% include problem.html key="subtitle" text="Mate mně právní úprava ohledně titulkování, překládání, konverze souborů apod." %}
+      {% include problem.html key="fanfiction" text="Moje fanouškovská díla mohou porušovat autorská práva." %}
+      {% include problem.html key="stolencontent" text="Někdo ukradl můj obsah." %}
+      {% include problem.html key="takedown" text="Webové služby, které mi byly zajištěny se potýkaly se stížnostmi vlastníků obsahu a čelily hrozbám uzavření." %}
+      <!--{% include problem.html key="affordmedia" text="I can't afford buying media and feel socially excluded" %}-->
+      {% include problem.html key="travel" text="Když cestuji do jiného členského státu EU nejsem si jist, nakolik se tamní autorské právo liší od úpravy v mé vlasti." %}
+      <!--{% include problem.html key="cclicense" text="Collection society doesn't allow me to release my music under a Creative Commons license" %}-->
+      {% include problem.html key="enforcement" text="Z mé zkušenosti vymáhání autorského práva slouží především vlastníkům práv a stojí nad právy občana." %}
+      {% include problem.html key="links" text="Nejsem si jist, zda-li odkaz na autorsky chráněné dílo může být dle současné právní úpravy protizákonný či nikoliv." %}
+      <!-- TODO {% include problem.html key="duration" text="Copyright duration is excessively long" %}-->
+    </ul>
+
+    <a href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="start(this)">Pokračovat &raquo;</a>
+
+    <p><br /><small>Kromě zjednodušené podoby můžete také <a href="http://youcan.fixcopyright.eu">odpovědět na úplný formulář s 80 otázkami</a>. V takovém případě však nemusíte odpovídat na každou otázku zvlášť.</small></p>
+  </div>
+
+  <div id="step-problem" class="jumbotron">
+    <p>Trápí vás:</p>
+    <h2></h2>
+    <p>Této skutečnosti se týká následující otázka konzultačního formuláře:</p>
+    <div id="problem"></div>
+    <a id="next" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="step()">Následující téma &raquo;</a>
+    <div class="form-group give-name" style="display:none">
+      <label for="name">Dein Name</label>
+      <input type="text" class="form-control" id="name" placeholder="Trage deinen Namen ein">
+      <p class="help-block">
+        Bitte beachte, dass deine Angaben von der EU <strong>im Internet veröffentlicht</strong> werden!<br />
+        Du musst zwar deinen Namen nicht angeben aber es wird empfohlen.
+      </p>
+    </div>
+    <a href="javascript:void(0)" class="download-document btn btn-primary btn-lg">Antworten verschicken &raquo;</a>
+  </div>
+
+  <div id="step-end" class="jumbotron">
+    <h2>Zašlete svůj text Evropské komisi</h2>
+
+    <!-- prefilled fields -->
+    <input type="hidden" name="typeofrespondent" value="enduser" checked>
+    <input type="hidden" class="form-control" id="register-id" placeholder="Register ID">
+
+    <ol>
+      <li>
+        <a id="download" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="">Stáhnout soubor s odpověďmi</a>
+      </li>
+      <li>
+        <a href="mailto:markt-copyright-consultation@ec.europa.eu?subject={{ "My contribution to the copyright consultation" | uri_escape }}&body={{ "PLEASE MAKE SURE THE FILE consultation-document_en.odt WHICH YOU DOWNLOADED IS ATTACHED TO THIS EMAIL AND REMOVE THIS NOTICE" | uri_escape }}" target="_blank" class="btn btn-primary btn-lg">Zaslat stažený dokument e-mailem na adresu</a>
+        <input size="43" value="markt-copyright-consultation@ec.europa.eu" onclick="this.select()" />
+        <p>
+          <small>S vašimi údaji bude nakládáno v souladu se  <a href="http://ec.europa.eu/internal_market/consultations/2013/copyright-rules/docs/privacy-statement_en.pdf">stanoviskem Evropské komise o soukromí</a>.</small>
+        </p>
+      </li>
+    </ol>
+
+    <h2>Děkujeme, že jste podpořili reformu autorského práva!</h2>
+
+    <p>Chcete pomoci sdílet tuto stránku s vašimi přáteli? Čím více odpovědí Evropská unie obdrží, tím lepší výsledná reforma bude.</p>
+
+    <ul class="fa-ul">
+        <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcopywrongs.eu%2F" target="_blank"><i class="fa fa-facebook-square"></i> Auf Facebook teilen</a></li>
+        <li><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.copywrongs.eu&via=copywrongs&text={{ "Habe der EU gerade meine Meinung zur Urheberrechtsreform gesagt – mach auch du mit!" | uri_escape }}&related=copywrongs" target="_blank"><i class="fa fa-twitter-square"></i> Auf Twitter teilen</a></li>
+        <li><a href="https://plus.google.com/share?url=http://copywrongs.eu/" target="_blank"><i class="fa fa-google-plus-square"></i> Auf Google+</a></li>
+    </ul>
+    
+  </div>
+
+  <div id="credits">
+    Kontaktiere uns <a href="mailto:hello@copywrongs.eu">per E-Mail</a> oder <a href="https://twitter.com/CopyWrongs">auf Twitter</a> &middot; gemacht am <a href="https://events.ccc.de/congress/2013/"><img src="../img/30c3/30c3.png" width="100" /></a>
+  </div>
+  
+</div>
+
+<div id="questions"><!-- visually hidden -->
+{% for question in site.data.questions %}
+  {% include question_only.html %}
+{% endfor %}
+</div>
