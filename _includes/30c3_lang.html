@@ -1,9 +1,9 @@
     <div id="lang">
       <i class="fa fa-globe"></i>
       <select onchange="document.location.replace('{{site.baseurl}}/'+this.options[this.selectedIndex].value)">
-        <option value="de"{% if include.lang == "de" %} selected{% endif %}>DE - Deutsch</option>
-        <option value=""  {% if include.lang == "en" %} selected{% endif %}>EN - English</option>
-        <option value="es"{% if include.lang == "es" %} selected{% endif %}>ES - Español</option>
-        <option value="it"{% if include.lang == "it" %} selected{% endif %}>IT - Italiano</option>
+        <option value="de"{% if page.language == "de" %} selected{% endif %}>DE - Deutsch</option>
+        <option value=""  {% if page.language == "en" %} selected{% endif %}>EN - English</option>
+        <option value="es"{% if page.language == "es" %} selected{% endif %}>ES - Español</option>
+        <option value="it"{% if page.language == "it" %} selected{% endif %}>IT - Italiano</option>
       </select>
     </div>
