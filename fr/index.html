@@ -13,57 +13,59 @@ language: fr
 
 <div class="container step-start">
   <div id="step-start" class="jumbotron">
-    
-    <h1>Help reform copyright!</h1>
 
-    <p><strong>The European Commission wants to hear your opinion</strong> on copyright reform. The aim of this site is to make it easier for you to respond to the <a href="http://ameliaandersdotter.eu/copyright-consultation-model-responses">official EU consultation</a> by filtering out the questions that do not relate to you directly. Together we can make our opinions and experiences heard!</p>
-    <p><small>One more thing: You can answer the question in any of the <a href="http://en.wikipedia.org/wiki/Languages_of_the_European_Union">24 official European languages</a> you are comfortable with!</small></p>
+    {% include 30c3_lang.html %}
     
-    <h2>Which of these problems have you encountered with copyright in the EU?</h2>
+    <h1>Aidez à réformer le droit d'auteur!</h1>
+
+    <p><strong>L’Union Européenne veut connaitre votre opinion sur la réforme du droit d'auteur. Sur ce site, nous vous aidons à répondre à <a href="https://ameliaandersdotter.eu/consulation-sur-le-droit-dauteur-reponses-type">cette consultation officielle de l'Union Européenne</a> en filtrant les questions qui ne s'appliquent pas à vous. Ensemble, nous pouvons faire en sorte que nos opinions et nos expériences soient entendues.</p>
+    <p><small>Une dernière chose : Vous pouvez répondre  aux questions dans la langue (<a href="https://fr.wikipedia.org/wiki/Langues_dans_l%27Union_europ%C3%A9enne">de l'Union Européenne</a>) de votre choix.</small></p>
+    
+    <h2>Lequel de ces problèmes avez-vous rencontré avec le droit d'auteur dans les pays membre de l'Union Européenne?</h2>
     <ul>
-      {% include problem.html key="youtube" text="YouTube videos are not available/playable in my country" %}
-      {% include problem.html key="imagesharing" text="I am confused about legality of sharing images on Facebook, Tumblr, etc" %}
-      {% include problem.html key="filesharingconfusion" text="I am confused about legality of filesharing/torrenting and/or I have even gotten in trouble because of filesharing/torrenting" %}
-	  {% include problem.html key="drm" text="I could not freely use media I bought because of DRM. In fact I had less control and freedom of the media than I would have in offline/analog world." %}
-      {% include problem.html key="resell" text="I have spent a lot of money on digital music tracks and books, but I cannot sell the ones I no longer want / need." %}
-      {% include problem.html key="mediacountry" text="Certain media was not available for me to buy in my country and/or a website I wanted to use was blocked in my country" %}
-      {% include problem.html key="remix" text="I don't dare to make a remix because of fear of repercussions" %}
-      {% include problem.html key="subtitle" text="I am confused about legality of subtitling, translating or converting media" %}
-      {% include problem.html key="fanfiction" text="My fan fiction or fan art might be illegal" %}
-      {% include problem.html key="stolencontent" text="My content was copied without my permission" %}
-      {% include problem.html key="takedown" text="My web service has been confronted with takedown notices and complaints because of potential copyright infringement." %}
+      {% include problem.html key="youtube" text="Les Vidéos youtube ne sont pas visionnables dans mon pays." %}
+      {% include problem.html key="imagesharing" text="Je suis perdu en ce qui concerne la légalité du partage d'images sur Facebook, Tumblr, etc." %}
+      {% include problem.html key="filesharingconfusion" text="Je suis perdu en ce qui concerne la légalité du partage de fichier/partage torrent ou j'ai eu des problèmes à cause du partage de fichier/partage torrent." %}
+	  {% include problem.html key="drm" text="Je n'ai pas pu utiliser librement un média que j'ai acheté à cause d'un DRM, en fait j'ai eu moins de libertés que ce que je peux avoir hors ligne/dans le monde réel." %}
+      <!--TO TRANSLATE-{% include problem.html key="resell" text="I have spent a lot of money on digital music tracks and books, but I cannot sell the ones I no longer want / need." %}-->
+      {% include problem.html key="mediacountry" text="Certains médias ne sont pas disponibles à l'achat ou un site que je voulais consulter est bloqué dans mon pays." %}
+      {% include problem.html key="remix" text="Je n'ai pas osé faire de remix par peur des répercussions." %}
+      {% include problem.html key="subtitle" text="Je suis perdu en ce qui concerne la légalité de sous-titrer, traduire, convertir, etc. des médias." %}
+      {% include problem.html key="fanfiction" text="Mon hommage fictionnel ou artistique à une oeuvre pourrait être illégal" %}
+      {% include problem.html key="stolencontent" text="Quelqu'un a volé mon contenu, Fichtre!" %}
+      {% include problem.html key="takedown" text="J'ai proposé un service web qui a été bloqué ou sur lequel j'ai reçu des plaintes (Mon compte Youtube/Vimeo a été bloqué)" %}
       <!--{% include problem.html key="affordmedia" text="I can't afford buying media and feel socially excluded" %}-->
-      {% include problem.html key="travel" text="When I travel to another member state, I am unsure how local copyright laws differ from at home" %}
+      {% include problem.html key="travel" text="Quand je voyage dans un autre état-membre, je ne connais pas les lois locales sur le copyright et je ne sais pas en quoi elles différent de mon pays d'origine." %}
       <!--{% include problem.html key="cclicense" text="Collection society doesn't allow me to release my music under a Creative Commons license" %}-->
-	  {% include problem.html key="enforcement" text="I have found that copyright enforcement puts the interests of rightholders above those of citizens." %}
-      {% include problem.html key="links" text="I am confused about legality of sharing links to content under copyright protection" %}
+	  {% include problem.html key="enforcement" text="J'ai fait l'expérience du fait que les lois sur le copyright font passer les intérêts des ayants-droit  avant ceux des citoyens" %}
+      {% include problem.html key="links" text="Je suis perdu en ce qui concerne la légalité du partage de liens vers du contenu protégé par le droit d'auteur." %}
       <!--{% include problem.html key="duration" text="I feel like copyright duration is excessively long" %}-->
     </ul>
 
-    <a href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="start(this)">Continue &raquo;</a>
+    <a href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="start(this)">Continuer &raquo;</a>
 
-    <p><br /><small>Would you like to <a href="http://youcan.fixcopyright.eu/">respond to the full 80-question consultation</a> rather than this simplified form? It's not necessary to answer all the questions.</small></p>
+    <p><br /><small>Souhaitez vous <a href="http://youcan.fixcopyright.eu/">répondre à la consultation entière et à ses 80 questions</a> plutôt qu'au questionnaire simplifié? Il n'est pas nécessaire de répondre à toutes les questions.</small></p>
   </div>
 
   <div id="step-problem" class="jumbotron">
-    <p>Your problem:</p>
+    <p>Votre problème:</p>
     <h2></h2>
-    <p>This problem relates to the following question(s) in the consultation:</p>
+    <p>Ce problème a trait à la question suivante de la consultation:</p>
     <div id="problem"></div>
-    <a id="next" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="step()">Next problem &raquo;</a>
+    <a id="next" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="step()">Problème suivant &raquo;</a>
     <div class="form-group give-name" style="display:none">
-      <label for="name">Your name</label>
-      <input type="text" class="form-control" id="name" placeholder="Enter your name">
+      <label for="name">Votre nom</label>
+      <input type="text" class="form-control" id="name" placeholder="Envoyer votre réponse">
       <p class="help-block">
-        Please note that your contributions <strong>will be published online</strong> by the EU!<br />
-        You don't have to give your name, but it is recommended.
+        Notez que votre contribution sera publiée en ligne par l’UE!<br />
+        Vous n’êtes pas obligé de donner votre nom.
       </p>
     </div>
-    <a href="javascript:void(0)" class="download-document btn btn-primary btn-lg">Send answers &raquo;</a>
+    <a href="javascript:void(0)" class="download-document btn btn-primary btn-lg">Envoyer votre réponse &raquo;</a>
   </div>
 
   <div id="step-end" class="jumbotron">
-    <h2>Now send your feedback to the European Commission</h2>
+    <h2>Envoyez maintenant votre compte-rendu à la Commission Européenne</h2>
 
     <!-- prefilled fields -->
     <input type="hidden" name="typeofrespondent" value="enduser" checked>
@@ -71,20 +73,20 @@ language: fr
 
     <ol>
       <li>
-        <a id="download" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="">Download response file</a>
+        <a id="download" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="">Téléchargez le fichier de réponse</a>
       </li>
       <li>
-        <a href="mailto:markt-copyright-consultation@ec.europa.eu?subject={{ "My contribution to the copyright consultation" | uri_escape }}&body={{ "PLEASE MAKE SURE THE FILE consultation-document_en.odt WHICH YOU DOWNLOADED IS ATTACHED TO THIS EMAIL AND REMOVE THIS NOTICE" | uri_escape }}" target="_blank" class="btn btn-primary btn-lg">Send the downloaded document by email</a> to
+        <a href="mailto:markt-copyright-consultation@ec.europa.eu?subject={{ "My contribution to the copyright consultation" | uri_escape }}&body={{ "PLEASE MAKE SURE THE FILE consultation-document_en.odt WHICH YOU DOWNLOADED IS ATTACHED TO THIS EMAIL AND REMOVE THIS NOTICE" | uri_escape }}" target="_blank" class="btn btn-primary btn-lg">Envoyez le document complété</a> à l'adresse
         <input size="43" value="markt-copyright-consultation@ec.europa.eu" onclick="this.select()" />
         <p>
-          <small>The <a href="http://ec.europa.eu/internal_market/consultations/2013/copyright-rules/docs/privacy-statement_en.pdf">Privacy statement of the European Commission</a> applies.</small>
+          <small><a href="http://ec.europa.eu/internal_market/consultations/2013/copyright-rules/docs/privacy-statement_en.pdf">La déclaration relative à la Vie Privée de l'Union Européenne</a> s'applique ici.</small>
         </p>
       </li>
     </ol>
 
-    <h2>Thanks for helping advocate for copyright reform!</h2>
+    <h2>Merci pour votre contribution à la défense de la réforme du droit d'auteur.</h2>
 
-    <p>Would you share this page with your friends? The more responses the EU gets, the better the reform will be.</p>
+    <p>Souhaitez-vous partager cette page avec vos amis? Plus il y aura de réponses, meilleure sera la réforme!</p>
 	
 	<ul class="fa-ul">
 		<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcopywrongs.eu%2F&t=Answer+to+the+EU+Commission+copyright+consultation" target="_blank"><i class="fa fa-facebook-square"></i> Share on Facebook</a></li>
