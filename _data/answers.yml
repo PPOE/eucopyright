@@ -33,6 +33,11 @@
   language: cz
   url: "/guides/30c3_cz.csv"
   questions: [1, 58, 80, 13, 64, 21, 23, 72, 74, 22, 77, 11]
+- name: "Crew 30c3 (RO)"
+  slug: "crew_30c3_ro"
+  language: ro
+  url: "/guides/30c3_ro.csv"
+  questions: [1, 58, 80, 13, 64, 21, 23, 72, 74, 22, 77, 11]
 - name: "Piratenpartij (NL)"
   slug: "piratenpartij"
   language: nl

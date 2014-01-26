@@ -8,6 +8,7 @@
     it: Hai riscontrato problemi accedendo a servizi online in un paese membro dell'Unione europea, apparte quello in cui vivi?
     nl: Heb je ooit problemen ondervonden wanneer je online diensten uit andere lidstaten dan jouw eigen land probeert te gebruiken?
     cz: "Čelili jste již problémům v případě přístupu k online službám v jiném členském státě, než je vaše vlast?"
+    ro: "Ai avut probleme incercand sa accesezi servicii online intr-un stat membru al UE altul decat cel in care locuiesti?"
   to: enduser
   type: multiple_choice
   explanation:
@@ -280,6 +281,7 @@
     it: Mettere a disposizione un collegamento a un opera o ad un altro oggetto protetto da diritto d'autore, in generale o anche in casi specifici, dovrebbe essere soggetto all'autorizzazione del detentore dei diritti d'autore?
     nl: Moet het verschaffen van een hyperlink die leidt naar een werk of een andere zaak beschermd door het auteursrecht, hetzij in het algemeen of in specifieke omstandigheden, afhankelijk zijn van de toestemming van de rechthebbende?
     cz: Domníváte se, že uveřejnění hypertextového odkazu na dílo nebo jinou práci chráněnou autorskými právy by mělo podléhat buď úplné, nebo v některých případěch omezené autorizaci držitele práv?
+    ro: Ar trebui ca utilizarea unui hyperlink ce duce la o lucrare cu continut protejat prin Dreptul de Autor (in mod general sau conform unor circumstante specifice) sa necesite autorizare de la detinatorul acestui Drept de Autor?
   to: everyone
   type: multiple_choice
   options:
@@ -359,6 +361,7 @@
     it: Hai mai incontrato restrizioni provando a rivendere contenuti digitali che hai comprato (per esempio mp3 o libri)?
     nl: Bent u tegen beperkingen aangelopen toen u probeerde om digitale bestanden weer te verkopen die u aangeschaft heeft (bijv. mp3-bestand, e-book)?
     cz: Setkali jste se již s omezeními v případě pokusu o přeprodej digitálních souborů, které jste si pořídili (např. mp3 soubory, elektronické knihy)
+    ro: Ai intampinat restrictii cand ai incercat sa vinzi mai departe fisiere digitale pe care le-ai cumparat? (ex. fisiere mp3, e-book)?
   to: end user/consumer
   type: multiple_choice
   options:
@@ -517,6 +520,7 @@
     it: Il fatto che molte delle limitazioni ed eccezioni previste dalle direttive dell'Unione europea siano opzionali per gli stati membri genera problemi?
     nl: Zijn er problemen die voortvloeien uit het feit dat de meeste beperkingen en uitzonderingen bij de EU-richtlijnen inzake auteursrecht optioneel zijn voor de lidstaten?
     cz: Vede skutečnost, že četné výjimky ze směrnice ohledně autorského práva EU jsou pro členské země pouze dobrovolné, ke komplikacím?
+    ro: Aceste probleme reies din faptul ca majoritata limitatiilor si exceptiilor prevazute in directivele de copyright UE sunt optionale pentru statele membre?
   to: everyone
   type: multiple_choice
   options:
@@ -559,6 +563,7 @@
     it: Dovrebbero alcune o tutte le eccezione essere obbligatorie e, in tal caso, c'è necessità di un livello superiore di armonizzazione per tali eccezioni?
     nl: Moeten sommige / alle uitzonderingen verplicht worden gesteld en, zo ja, is er behoefte aan een hoger niveau van harmonisatie van dergelijke uitzonderingen?
     cz: Měly by být některé/všechy výjimky povinné a pokud ano, měly by být přísněji harmonizovány?
+    ro: Crezi ca ar trebui ca unele/toate exceptii sa devina obligatorii; daca da, crezi ca este nevoie de un nivel mai crescut de armonizare a acestor exceptii?
   to: everyone
   type: multiple_choice
   options:
@@ -600,6 +605,7 @@
     it: Si dovrebbero aggiungere o rimuovere nuove limitazioni ed eccezioni dal catalogo esistente? Per favore spiegate riferendovi a casi specifici.
     nl: Moeten er nieuwe beperkingen en uitzonderingen worden toegevoegd aan of verwijderd uit de bestaande catalogus ? Gelieve te verklaren met verwijzing naar specifieke gevallen.
     cz: Měl by být současný seznam výjimek a omezení rozšířen či naopak zkrácen? Pokud ano, prosím vysvětlete.
+    ro: Crezi ca trebuie adaugate noi limitari sau exceptii portofoliului existent de reglementari? Te rog explica prin referinta la cazuri specifice
   to: everyone
   type: open_question
   odf:
@@ -1280,6 +1286,10 @@
       (a) [Především pro spotřebitele/koncové uživatele:] Setkali jste se již s komplikacemi spojenými s použitím dříve existujících děl či jiných prací v případě publikování nového obsahu na internetu, včetně přeshraničního styku?
       (b) [Především pro poskytovatele služeb:] Setkali jste se již s komplikacemi v případě, kdy uživatelé zveřejňovali/publikovali nová odvozená díla, a to prostřednictvím vašich služeb, včetně přeshraničního styku?
       (c) [Především pro držitele práv:] Setkali jste se již s komplikacemi, způsobenými tím, jak uživatelé remixují díla (vytvářejí odvozená díla) nebo jiné práce jak doma, tak i v přeshraničním styku?
+    ro: |
+      (a) [Pentru consumatori/utilizatori:] Ai intampinat probleme incercand sa impartasesti pe internet lucrari noi bazate pe continutul unor lucrari deja existente, in special dincolo de granitele tarii tale?
+      (b) [Pentru provideri:] Ai intampinat probleme cand utilizatorii au impartasit/publicat pe internet lucrari noi, bazate pe continutul unor lucrari deja existente, prin serviciul oferit de tine, in special dincolo de granitele tarii?
+      (c) [Pentru detinatorii de drepturi] Ai intampinat probleme provenite din faptul ca utilizatorii impartasesc pe internet continut provenit din lucrari deja existente, in special dincolo de granitele tarii?
   to: switch
   type: multiple_choice
   options:
@@ -1428,6 +1438,7 @@
     es: En su opinión, ¿Existe la necesidad de aclarar a nivel de la Unión Europea, el alcance y la aplicación de las excepciones particulares de la copia privada y la reprografía en el entorno digital?
     it: Secondo voi, c'è la necessità di chiarificare a livello di Unione europea lo scopo e l'applicazione delle eccezioni di copia e fotocopia ad uso personale nel mondo digitale?
     cz: Domníváte se, že je nezbytné, aby byly současné výjimky z celoevropského autorského práva pro soukromé kopírování uplatněny také v digitálním prostředí?
+    ro: Din punctul tau de vedere, crezi ca este nevoie de o clarificare la nivel UE in legătura cu aplicarea unor exceptii legale cu privire la copierea si reprografierea (multiplicarea imaginilor) in spatiul digital?
   to: everyone
   type: multiple_choice
   options:
@@ -1624,6 +1635,7 @@
     es: Cual es el mejor mecanismo (o combinación de mecanismos) para asegurar que usted reciba una remuneración adecuada por la explotación de sus obras y actuaciones?
     it: Qual è il miglior meccanismo (o combinazione di meccanismi) per assicurarsi di ricevere adeguata remunerazione per lo sfuttamento delle vostre opere e performance?
     cz: Jakým způsobem se domníváte mohou být vaše náklady nejlépe pokryty v případě užití vašeho díla, práce nebo vystoupení někým jiným?
+    ro: Care este cel mai bun mecanism (sau combinatie de mecanisme) care sa te asigure ca vei primi o remuneratie adecvata in schimbul exploatarii lucrarilor sau performantelor tale artistice?
   to: author/performer
   type: open_question
   odf:
@@ -1676,6 +1688,7 @@
     es: Si usted considera que las reglas actuales no son efectivas, ¿Qué sugiere para hacer frente a las deficiencias que ha identificado?
     it: Se ritenete che le regole attuali non siano effettive, in che modo suggerite di trattare le carenze da voi identificate?
     cz: Jste-li toho názoru, že jsou současná pravidla neefektivní, jak byste je byli ochotni změnit, aby lépe adresovaly problémy, se kterémi se setkáváte?
+    ro: Daca consideri ca regulile existente sunt ineficiente, ce ai sugera pentru a indrepta defectele identificate?
   to: everyone
   type: open_question
   odf:
@@ -1741,6 +1754,7 @@
     es: ¿El marco de aplicación civil actual asegura que se consiga el equilibrio adecuado entre el respeto de los derechos de autor y otros derechos como la protección de la privacidad y la protección de los datos personales?
     it: L'attuale infrastruttura civile assicura che si raggiunga un giusto equilibrio tra il rispetto dei diritti d'autore ed altri diritti come ad esempio la protezione della vita privata e dei dati personali?
     cz: Zajišťuje současný rámec v oblasti vymáhání práv dostatečnou rovnováhu mezi zájmy vlastníků práv a zájmy jednotlivců chránit své soukromí a osobní data?
+    ro: Crezi ca actualul cadru de ordine civila asigura mentinerea unei balante corecte intre dreptul de a respecta drepturile de autor si alte drepturi, cum ar fi protecia vietii private si protectia datelor cu caracter personal?
   to: everyone
   type: multiple_choice
   options:
@@ -1817,6 +1831,7 @@
     it: Ci sono altre questioni importanti riguardo al sistema legale del diritto d'autore nell'Unione europea? Per piacere spiega e indica in che modo queste questioni dovrebbero essere risolte.
     nl: Zijn er andere belangrijke zaken die samenhangen met het rechtssysteem voor copyright in de EU?  Leg uit en toon aan hoe zulke zaken moeten worden aangepakt.
     cz: Lze ještě uvést další témata spojená s evropským právním rámcem pro autoské právo? Prosím vysvětlete a uveďte jak mohou být tato témata adresována.
+    ro: Mai exista si alte subiecte importante legate de prevederile Dreptului de Autor in UE? Te rog explica si indica cum aceste probleme ar putea fi mediate.
   to: everyone
   type: open_question
   odf:

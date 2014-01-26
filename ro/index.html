@@ -1,0 +1,111 @@
+---
+layout: base
+title: "Help reform copyright!"
+icon: /img/30c3/icon.png
+language: ro
+---
+<style type="text/css"> @import "../css/30c3.css"; </style>
+<style type="text/css"> @import "../css/font-awesome.min.css"; </style>
+<script type="text/javascript" src="../js/30c3.js"></script>
+<script type="text/javascript">
+  var guideSlug = 'crew_30c3_ro'
+</script>
+
+<div class="container step-start">
+  <div id="step-start" class="jumbotron">
+
+    {% include 30c3_lang.html %}
+    
+    <h1>Ajuta reforma Legii Dreptului de Autor!</h1>
+
+    <p><strong>Uniunea Europeana vrea sa auda opinia ta in privinta necesitatii reformarii Legii Dreptului de Autor. Pe acest website iti oferim posibilitatea de a raspunde rapid <a href="https://ameliaandersdotter.eu/consulation-sur-le-droit-dauteur-reponses-type">consultarii oficiale initiate de UE</a> dupa ce am exclus acele intrebari care nu ne privesc pe noi, utilizatorii. Impreuna ne putem impune opiniile si experientele!</p>
+    <p><small>Inca ceva: poti raspunde la intrebari in <a href="https://ro.wikipedia.org/wiki/Limbile_Uniunii_Europene">limba europeana</a> pe care o stapanesti cel mai bine!</small></p>
+    
+    <h2>Care din urmatoarele probleme privind Dreptul de Autor le-ai intalnit in UE?</h2>
+    <ul>
+      {% include problem.html key="youtube" text="Unele videoclipuri YouTube nu pot fi vizionate in tara mea." %}
+      {% include problem.html key="imagesharing" text="Imi este neclara legalitatea impartasirii/distribuirii imaginilor pe Facebook, Tumblr, etc." %}
+      {% include problem.html key="filesharingconfusion" text=" Imi este neclara legalitatea torrentelor/distribuirii de documente sau am avut probleme legale din cauza torrentelor/distribuirii de documente." %}
+	  {% include problem.html key="drm" text="Nu am putut sa folosesc in mod legal fisiere media cumparate din cauza DRM (Digital Right Management), de fapt as fi avut mai multa libertate cumparand aceleasi fisiere offline, de la librarie." %}
+      <!--TO TRANSLATE-{% include problem.html key="resell" text="I have spent a lot of money on digital music tracks and books, but I cannot sell the ones I no longer want / need." %}-->
+      {% include problem.html key="mediacountry" text="Anumite fisiere media nu sunt disponibile cumpararii in tara mea sau un website pe care am vrut sa il accesez nu e disponibil in tara mea." %}
+      {% include problem.html key="remix" text="Nu indraznesc sa fac un remix din frica eventualelor repercursiuni legale." %}
+      {% include problem.html key="subtitle" text="Imi este neclara legalitatea atribuita actiunii de a subtitra, traduce, converti, etc fisiere media." %}
+      {% include problem.html key="fanfiction" text="Reinterpretarile (cover) mele dupa unele productii de arta/fictiune ar putea fi ilegale." %}
+      {% include problem.html key="stolencontent" text="Cineva mi-a furat productiile proprii" %}
+      {% include problem.html key="takedown" text="Intretin un serviciu web care a fost confruntat cu amenintari de inchidere." %}
+      <!--{% include problem.html key="affordmedia" text="I can't afford buying media and feel socially excluded" %}-->
+      {% include problem.html key="travel" text="Cand calatoresc in alt stat membru UE nu sunt sigur despre felul in care reglementarile Dreptului de Autor difera fata de tara mea." %}
+      <!--{% include problem.html key="cclicense" text="Collection society doesn't allow me to release my music under a Creative Commons license" %}-->
+	  {% include problem.html key="enforcement" text="Din experienta proprie am observat ca reglementarile Drepturilor de Autor pun interesele detinatorilor de drepturi deasupra intereselor cetatenilor." %}
+      {% include problem.html key="links" text="Imi este neclara legalitatea impartasirii de adrese web cu continut protejat prin Legea  Dreptului de Autor." %}
+      <!--{% include problem.html key="duration" text="I feel like copyright duration is excessively long" %}-->
+    </ul>
+
+    <a href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="start(this)">Continuare &raquo;</a>
+
+    <p><br /><small>Ai prefera sa <a href="http://youcan.fixcopyright.eu/">raspunzi consultarii oficiale ce contine 80 de intrebari</a> in locul acestei forme simplificate? O poti face dacă doresti dar nu e necesar sa raspunzi intrebarilor care nu te privesc sau la care nu stii ce sa raspunzi.</small></p>
+  </div>
+
+  <div id="step-problem" class="jumbotron">
+    <p>Problema ta:</p>
+    <h2></h2>
+    <p>Aceasta problema este relevanta urmatoarelor intrebari din consultatie:</p>
+    <div id="problem"></div>
+    <a id="next" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="step()">Problème suivant &raquo;</a>
+    <div class="form-group give-name" style="display:none">
+      <label for="name">Numele tau</label>
+      <input type="text" class="form-control" id="name" placeholder="Numele tau">
+      <p class="help-block">
+        Atentie, contributia ta va fi publicata online de catre UE!<br />
+        Trebuie sa iti lasi numele.
+      </p>
+    </div>
+    <a href="javascript:void(0)" class="download-document btn btn-primary btn-lg">Trimite raspunsurile &raquo;</a>
+  </div>
+
+  <div id="step-end" class="jumbotron">
+    <h2>Trimite comentariile tale Comisiei Europene</h2>
+
+    <!-- prefilled fields -->
+    <input type="hidden" name="typeofrespondent" value="enduser" checked>
+    <input type="hidden" class="form-control" id="register-id" placeholder="Register ID">
+
+    <ol>
+      <li>
+        <a id="download" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="">Descarca fisierul de raspuns</a>
+      </li>
+      <li>
+        <a href="mailto:markt-copyright-consultation@ec.europa.eu?subject={{ "My contribution to the copyright consultation" | uri_escape }}&body={{ "PLEASE MAKE SURE THE FILE consultation-document_en.odt WHICH YOU DOWNLOADED IS ATTACHED TO THIS EMAIL AND REMOVE THIS NOTICE" | uri_escape }}" target="_blank" class="btn btn-primary btn-lg">Trimite documentul descarcat</a> prin email
+        <input size="43" value="markt-copyright-consultation@ec.europa.eu" onclick="this.select()" />
+        <p>
+          <small>Se aplica <a href="http://ec.europa.eu/internal_market/consultations/2013/copyright-rules/docs/privacy-statement_en.pdf">Declaratia de confidentialitate a Comisiei Europene</a>.</small>
+        </p>
+      </li>
+    </ol>
+
+    <h2>Multumim pentru pledoaria ta in sprijinul reformei legii Dreptului de Autor</h2>
+
+    <p>Ai dori sa distribui aceasta pagina cunoscutilor tai? Cu cat mai multe raspunsuri vor fi primite de UE, cu atat mai buna va fi reforma.</p>
+	
+	<ul class="fa-ul">
+		<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcopywrongs.eu%2F&t=Answer+to+the+EU+Commission+copyright+consultation" target="_blank"><i class="fa fa-facebook-square"></i> Share on Facebook</a></li>
+		<li><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.copywrongs.eu&via=copywrongs&text=Reply%20to%20the%20EC%20copyright%20consultation&related=copywrongs" target="_blank"><i class="fa fa-twitter-square"></i> Share on Twitter</a></li>
+		<li><a href="https://plus.google.com/share?url=http://copywrongs.eu/" target="_blank"><i class="fa fa-google-plus-square"></i> Share on Google+</a></li>
+	</ul>
+
+  </div>
+
+  <div id="credits">
+	  Contact us <a href="mailto:hello@copywrongs.eu">via email</a>, 
+	  or <a href="https://twitter.com/CopyWrongs">on Twitter</a> &middot; made at <a href="https://events.ccc.de/congress/2013/"><img src="../img/30c3/30c3.png" width="100" /></a> &middot;
+	Uses <a href="http://fontawesome.io/">Font Awesome</a>.
+	  <a href="https://github.com/PPOE/eucopyright"><i class="fa fa-github"></i> Fork on GitHub</a>
+  </div>
+</div>
+
+<div id="questions"><!-- visually hidden -->
+{% for question in site.data.questions %}
+  {% include question_only.html %}
+{% endfor %}
+</div>
