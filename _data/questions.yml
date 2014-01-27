@@ -1,6 +1,6 @@
 - num: 1
   text:
-    pl: "[W szczególności, jeżeli są Państwo użytkownikami końcowymi/konsumentami:] Czy spotkali się Państwo z problemami w zakresie dostępu do usług online w innym państwie członkowskim Unii Europejskiej niż Państwa kraj zamieszkania?"
+    pl: "Czy spotkali się Państwo z problemami w zakresie dostępu do usług online w innym państwie członkowskim Unii Europejskiej niż Państwa kraj zamieszkania?"
     en: Have you faced problems when trying to access online services in an EU Member State other than the one in which you live?
     de: "Hattest du schon einmal Probleme auf Online-Dienste aus einem anderen EU-Staat als dem, in dem du lebst, zuzugreifen?"
     fr: "Avez vous rencontré des problèmes en essayant d'accéder à des services en ligne venant d'un autre pays membre de l'UE que celui dans lequel vous vivez ?"
@@ -17,6 +17,7 @@
     details:
       en: "Please provide examples indicating the Member State, the sector and the type of content concerned (e.g. premium content such as certain films and TV series, audio-visual content in general, music, e-books, magazines, journals and newspapers, games, applications and other software)"
       de: "Bitte gib Beispiele mit deinem Land, dem Art des Inhalts an (z.B. Premium-Inhalte wie bestimmte Filme, TV-Serien, Musik, E-Books, Magazine, Zeitschriften und Zeitungen, Spiele, Anwendungen und andere Software)"
+      pl: "Proszę podać przykłady, wskazując nazwy krajów UE w których wystąpiły, sektor działalności oraz rodzaj treści którego dotyczyły problemy (np. niektóre filmy albo seriale, materiały audiowizualne ogólnie, muzyka, książki, magazyny, gry, oprogramowanie)"
     fulltext: true
     odf:
       - action: mark
@@ -36,7 +37,7 @@
 
 - num: 2
   text:
-    pl: "[W szczególności, jeśli dostarczają Państwo usługi online:] Czy spotkali się Państwo z problemami w zakresie dostarczania usług online wewnątrz Unii Europejskiej?"
+    pl: "Czy spotkali się Państwo z problemami w zakresie dostarczania usług online wewnątrz Unii Europejskiej?"
     en: Have you faced problems when seeking to provide online services across borders in the EU?
     de: "Hattest du schon einmal Probleme, als du Dienstleistungen in der EU über Grenzen hinweg anbieten wolltest?"
     nl: Ben je wel eens in de problemen gekomen als je probeert om jouw online diensten aan te bieden in de EU?
@@ -48,6 +49,7 @@
     details:
       en: "Please explain whether such problems, in your experience, are related to copyright or to other issues (e.g. business decisions relating to the cost of providing services across borders, compliance with other laws such as consumer protection)? Please provide examples indicating the Member State, the sector and the type of content concerned (e.g. premium content such as certain films and TV series, audio-visual content in general, music, e-books, magazines, journals and newspapers, games, applications and other software)."
       de: "Bitte beschreibe, ob diese Probleme deiner Erfahrung nach mit dem Urheberrecht oder mit anderen Problemen zusammenhängen (z.B. Unternehmensentscheidungen zu Kosten grenzüberschreitender Dienste, Einhaltung anderer Gesetze wie Verbraucherschutz)? Bitte gib Beispiele mit Mitgliedsstaat, Sektor und Art von Inhalt (z.B. Premium-Inhalte wie bestimmte Filme, TV-Serien, Musik, E-Books, Magazine, Zeitschriften und Zeitungen, Spiele, Anwendungen und andere Software)."
+      en: "Proszę wyjaśnić, czy te problemy wg Twojego doświadczenia, wynikają z prawa autorskiego czy z innych powodów (np. decyzje biznesowe które ograniczają udostępnianie różnych usług zagranicą, konieczność utrzymania zgodności z innymi prawami jak np. dot. ochrony konsumentów)? Proszę podać przykłady, wskazując nazwy krajów UE w których wystąpiły, sektor działalności oraz rodzaj treści którego dotyczyły problemy (np. niektóre filmy albo seriale, materiały audiowizualne ogólnie, muzyka, książki, magazyny, gry, oprogramowanie)"
     fulltext: true
     odf:
       - action: mark
@@ -67,7 +69,7 @@
 
 - num: 3
   text:
-    pl: "[W szczególności, jeśli są Państwo posiadaczami praw autorskich bądź reprezentują Państwo organizację zbiorowego zarządzania:] Jak często spotykają się Państwo z prośbą o licencje wieloterytorialne? Jeśli to możliwe, proszę podać liczbę zapytań w skali roku oraz przykłady z informacją, z jakiego kraju członkowskiego i z jakiego sektora pochodziło zapytanie oraz jakiego rodzaju usług/treści dotyczyło."
+    pl: "Jak często spotykają się Państwo z prośbą o licencje wieloterytorialne? Jeśli to możliwe, proszę podać liczbę zapytań w skali roku oraz przykłady z informacją, z jakiego kraju członkowskiego i z jakiego sektora pochodziło zapytanie oraz jakiego rodzaju usług/treści dotyczyło."
     en: "How often are you asked to grant multi-territorial licences? Please indicate, if possible, the number of requests per year and provide examples indicating the Member State, the sector and the type of content concerned."
     nl: Hoe vaak word je gevraagd om licenties over meerdere landen te verstrekken? Indien mogelijk, geef alsjeblief een indicatie van het aantal verzoeken per jaar en voorbeelden met vermelding van de lidstaat, sector en type werk in kwestie.
   to: right holder or collective management organisation
@@ -97,7 +99,7 @@
 
 - num: 5
   text:
-    pl: "[W szczególności, jeśli są Państwo posiadaczami praw autorskich bądź reprezentują Państwo organizację zbiorowego zarządzania:] Czy istnieją powody, dla których - nawet jeśli posiadają Państwo wszelkie niezbędne prawa obejmujące dane terytoria - w dalszym ciągu uznaliby Państwo za konieczne i uzasadnione, aby narzucać ograniczenia terytorialne dostarczycielom usług (na przykład po to, aby uniemożliwić dostęp do pewnych treści w wybranych krajach europejskich)?"
+    pl: "Czy istnieją powody, dla których - nawet jeśli posiadają Państwo wszelkie niezbędne prawa obejmujące dane terytoria - w dalszym ciągu uznaliby Państwo za konieczne i uzasadnione, aby narzucać ograniczenia terytorialne dostarczycielom usług (na przykład po to, aby uniemożliwić dostęp do pewnych treści w wybranych krajach europejskich)?"
     en: "Are there reasons why, even in cases where you hold all the necessary rights for all the territories in question, you would still find it necessary or justified to impose territorial restrictions on a service provider (in order, for instance, to ensure that access to certain content is not possible in certain European countries)?"
     nl: Zijn er redenen waarom, zelfs in zaken waar je alle noodzakelijke rechten beheert voor alle landen in kwestie, je het nog steeds noodzakelijk zou vinden om restricties per land op een aanbieder van diensten te leggen (bijvoorbeeld om ervoor te zorgen dat bepaalde werken niet toegankelijk zijn in bepaalde Europese landen)?
   to: "right holder, collective management organisation"
@@ -106,6 +108,7 @@
   - label: 'Yes'
     details:
       en: "Please explain by giving examples"
+      pl: "Proszę wyjaśnić poprzez podanie przykładów"
     fulltext: true
     odf:
       - action: mark
@@ -125,7 +128,7 @@
 
 - num: 6
   text:
-    pl: "[W szczególności, jeśli reprezentują Państwo nadawcę lub dostawcę usług online:] Czy istnieją powody, dla których - nawet jeśli nabyli Państwo wszelkie niezbędne prawa obejmujące dane terytoria - w dalszym ciągu uznaliby Państwo za konieczne i uzasadnione, aby narzucać ograniczenia terytorialne odbiorcom swoich usług (na przykład po to, aby przekierować konsumenta na inną stronę niż ta, którą pierwotnie chce odwiedzić)?"
+    pl: "Czy istnieją powody, dla których - nawet jeśli nabyli Państwo wszelkie niezbędne prawa obejmujące dane terytoria - w dalszym ciągu uznaliby Państwo za konieczne i uzasadnione, aby narzucać ograniczenia terytorialne odbiorcom swoich usług (na przykład po to, aby przekierować konsumenta na inną stronę niż ta, którą pierwotnie chce odwiedzić)?"
     en: "Are there reasons why, even in cases where you have acquired all the necessary rights for all the territories in question, you would still find it necessary or justified to impose territorial restrictions on the service recipient (in order for instance, to redirect the consumer to a different website than the one he is trying to access)?"
     nl: Zijn er redenen waarom, zelfs in gevallen waar je alle noodzakelijke rechten verworven hebt voor alle landen in kwestie, je het nog steeds noodzakelijk zou vinden om beperkingen per land op een aanbieder van diensten te leggen (om er bijvoorbeeld voor te zorgen dat bepaalde werken niet toegankelijk zijn in bepaalde Europese landen)?
   to: "broadcaster, service provider"
@@ -134,6 +137,7 @@
   - label: 'Yes'
     details:
       en: "Please explain by giving examples"
+      pl: "Proszę wyjaśnić poprzez podanie przykładów"
     fulltext: true
     odf:
       - action: mark
@@ -163,6 +167,7 @@
   - label: 'Yes'
     details:
       en: "Please explain"
+      pl: "Proszę wyjaśnić"
     fulltext: true
     odf:
       - action: mark
@@ -174,6 +179,7 @@
   - label: 'No'
     details:
       en: "Please explain"
+      pl: "Proszę wyjaśnić"
     fulltext: true
     odf:
       - action: mark
@@ -202,6 +208,7 @@
   - label: 'No'
     details:
       en: 'Please explain how this could be clarified and what type of clarification would be required (e.g. as in "targeting" approach explained above, as in "country of origin" approach)'
+      pl: 'Proszę wyjaśnić jak to mogłoby zostać doprecyzowane i co powinno zostać zrobione w ramach doprecyzowania?'
     fulltext: true
     odf:
       - action: mark
@@ -217,7 +224,7 @@
 
 - num: 9
   text:
-    pl: '[W szczególności, jeśli są Państwo posiadaczami praw autorskich:] Czy wyjaśnienie zakresu terytorialnego prawa "udostępniania" może wpłynąć na rozpoznanie Państwa praw (niezależnie od tego, czy są Państwo autorami czy nie oraz czy przenieśli Państwo prawa czy nie), wynagrodzenia lub egzekwowanie praw (włącznie z dostępnością roszczeń zakazowych)?'
+    pl: 'Czy doprecyzowanie zakresu terytorialnego prawa "udostępniania" może wpłynąć na respektowanie Państwa praw (niezależnie od tego, czy są Państwo autorami czy nie oraz czy przenieśli Państwo prawa czy nie), wynagrodzenia lub egzekwowanie praw (włącznie z dostępnością roszczeń zakazowych)?'
     en: "Could a clarification of the territorial scope of the “making available” right have an effect on the recognition of your rights (e.g. whether you are considered to be an author or not, whether you are considered to have transferred your rights or not), on your remuneration, or on the enforcement of rights (including the availability of injunctive relief)?"
     nl: Zou een verduidelijking van de territoriale werkingssfeer van het recht "ter beschikking te stellen" een effect kunnen hebben op de erkenning van uw rechten (bijvoorbeeld of u wordt beschouwd de auteur te zijn of niet, of u nu geacht wordt uw rechten te hebben overgedragen of niet), op uw beloning, of op de handhaving van rechten (waaronder de beschikbaarheid van voorlopige voorziening*)?
   to: right holder
@@ -226,6 +233,7 @@
   - label: 'Yes'
     details:
       en: "Please explain how such potential effects could be addressed"
+      pl: "Proszę wyjaśnić co można zrobić w celu przeciwdziałania wspomnianym problemom"
     fulltext: true
     odf:
       - action: mark
@@ -245,7 +253,7 @@
 
 - num: 10
   text:
-    pl: "[W szczególności, jeśli dostarczają Państwo usługi online lub są posiadaczami praw autorskich:] Czy zastosowanie dwóch uprawnień do pojedynczego aktu eksploatacji ekonomicznej w środowisku online (np. w przypadku ściągania) jest dla Państwa problemem?"
+    pl: "Czy zastosowanie dwóch praw do pojedynczego aktu eksploatacji ekonomicznej w środowisku online (np. w przypadku ściągania) jest dla Państwa problemem?"
     en: "Does the application of two rights to a single act of economic exploitation in the online environment (e.g. a download) create problems for you?"
     nl: Leidt het toepassen van twee rechten op een enkele daad van economische uitbating in de online omgeving (bijvoorbeeld een download) tot problemen voor u?
   to: "service provider, right holder"
@@ -254,6 +262,7 @@
   - label: 'Yes'
     details:
       en: 'Please explain what type of measures would be needed in order to address such problems (e.g. facilitation of joint licences when the rights are in different hands, legislation to achieve the "bundling of rights")'
+      pl: 'Proszę wyjaśnić jakie rodzaje działań byłyby wymagane by przeciwdziałać wspomnianym problemom (np. ułatwienie tworzenia łączonych licencji jeśli prawa są w różnych rękach, wprowadzenie prawa służącego tworzeniu "pakietów praw")'
     fulltext: true
     odf:
       - action: mark
@@ -300,6 +309,7 @@
   - label: 'No'
     details:
       en: "Please explain whether you consider this to be the case in general, or under specific circumstances, and why (e.g. because it does not amount to an act of communication to the public – or to a new public, or because it should be covered by a copyright exception)"
+      pl: "Please wyjaśnić czy uważasz, że to powinno mieć miejsce zawsze czy tylko w konkteście szczególnych okoliczności i dlaczego (np. ponieważ nie powinno to być traktowane jako publiczne rozpowszechnianie utworu - lub choćby rozpowszechnianie go do nieznanej wcześniej publiczności, lub ponieważ powinno to być zdefiniowane jako wyjątek od praw autorskich)"
     fulltext: true
     odf:
       - action: mark
@@ -353,7 +363,7 @@
 
 - num: 13
   text:
-    pl: "[W szczególności, jeśli są Państwo użytkownikami końcowymi/konsumentami:] Czy spotkali się Państwo z ograniczeniami przy próbie odsprzedania plików cyfrowych, który zostały wcześniej nabyte (np. pliki mp3, e-booki)?"
+    pl: "Czy spotkali się Państwo z ograniczeniami przy próbie odsprzedania plików cyfrowych, który zostały wcześniej nabyte (np. pliki mp3, e-booki)?"
     en: "Have you faced restrictions when trying to resell digital files that you have purchased (e.g. mp3 file, e-book)?"
     de: "Warst du beim Versuch des Weiterverkaufs digitaler Dateien (z. B. MP3-Dateien, eBooks), die du zuvor erworben hattest, mit Einschränkungen konfrontiert?"
     fr: Avez vous rencontré des restrictions en essayant de revendre des fichiers numériques que vous avez achetés (par exemple des fichiers mp3 ou des e-books) ?
@@ -368,6 +378,7 @@
   - label: 'Yes'
     details:
       en: "Please explain by giving examples"
+      pl: "Proszę wyjaśnić poprzez podanie przykładów"
     fulltext: true
     odf:
       - action: mark
@@ -387,7 +398,7 @@
 
 - num: 14
   text:
-    pl: "[W szczególności, jeśli są Państwo posiadaczami praw autorskich lub dostarczają usługi online:] Jakie byłyby konsekwencje stworzenia systemu prawnegoj pozwalającego na odsprzedawanie wcześniej nabytych cyfrowych treści? Proszę określić rodzaj rynku (rodzaj treści)."
+    pl: "Jakie byłyby konsekwencje stworzenia systemu prawnegoj pozwalającego na odsprzedawanie wcześniej nabytych cyfrowych treści? Proszę określić rodzaj rynku (rodzaj treści)."
     en: What would be the consequences of providing a legal framework enabling the resale of previously purchased digital content? Please specify per market (type of content) concerned.
     nl: Wat zouden de gevolgen zijn van het bieden van een wettelijk kader dat de wederverkoop van eerder gekochte digitale inhoud regelt? Gelieve te specificeren per markt (per type content).
   to: "right holder, service provider"
@@ -570,6 +581,7 @@
   - label: 'Yes'
     details:
       en: "Please explain by referring to specific cases"
+      pl: "Proszę wyjaśnić poprzez podanie konkretnych przykładów"
     fulltext: true
     odf:
       - action: mark
@@ -626,6 +638,7 @@
   - label: 'Yes'
     details:
       en: "Please explain why"
+      pl: "Proszę wyjaśnić dlaczego"
     fulltext: true
     odf:
       - action: mark
@@ -637,6 +650,7 @@
   - label: 'No'
     details:
       en: "Please explain why"
+      pl: "Proszę wyjaśnić dlaczego"
     fulltext: true
     odf:
       - action: mark
@@ -674,6 +688,7 @@
   - label: 'Yes'
     details:
       en: "Please explain why and specify which exceptions you are referring to"
+      pl: "Proszę wyjaśnić dlaczego i podać do jakich wyjątków się odnosisz"
     fulltext: true
     odf:
       - action: mark
@@ -685,6 +700,7 @@
   - label: 'No'
     details:
       en: "Please explain why and specify which exceptions you are referring to"
+      pl: "Proszę wyjaśnić dlaczego i podać do jakich wyjątków się odnosisz"
     fulltext: true
     odf:
       - action: mark
@@ -712,7 +728,7 @@
 
 - num: 28
   text:
-    pl: "[W szczególności, jeśli są Państwo użytkownikami instytucjonalnymi:] Czy doświadczyli Państwo szczególnych problemów przy próbach zastosowania wyjątku w celu zachowywania i archiwizowania utworów lub innych przedmiotów prawa autorskiego w Państwa kolekcji?"
+    pl: "Czy doświadczyli Państwo szczególnych problemów przy próbach zastosowania wyjątku w celu zachowywania i archiwizowania utworów lub innych przedmiotów prawa autorskiego w Państwa kolekcji?"
     en: |
       (a) [In particular if you are an institutional user:] Have you experienced specific problems when trying to use an exception to preserve and archive specific works or other subject matter in your collection?
       (b) [In particular if you are a right holder:] Have you experienced problems with the use by libraries, educational establishments, museum or archives of the preservation exception?
@@ -722,6 +738,7 @@
   - label: 'Yes'
     details:
       en: "Please explain, by Member State, sector, and the type of use in question."
+      pl: "Proszę wyjaśnić, podając kraj członkowski UE, sektor oraz co próbowali Państwo zrobić"
     fulltext: true
     odf:
       - action: mark
@@ -845,6 +862,7 @@
   - label: 'Yes'
     details:
       en: "Please explain with specific examples"
+      pl: "Proszę wyjaśnić poprzez podanie konkretnych przykładów"
     fulltext: true
     odf:
       - action: mark
@@ -876,7 +894,7 @@
 
 - num: 38
   text:
-    pl: "[W szczególności, jeśli są Państwo użytkownikami instytucjonalnymi:] Jakie widzą Państwo różnice w zarządzaniu kolekcjami fizycznie istniejącymi i kolekcjami online, z uwzględnieniem zapewnienia dostępu do nich Państwa subskrybentom? Jakie napotkali Państwo problemy?"
+    pl: "Jakie widzą Państwo różnice w zarządzaniu kolekcjami fizycznie istniejącymi i kolekcjami online, z uwzględnieniem zapewnienia dostępu do nich Państwa subskrybentom? Jakie napotkali Państwo problemy?"
     en: "What differences do you see in the management of physical and online collections, including providing access to your subscribers? What problems have you encountered?"
   to: institutional user
   type: open_question
@@ -888,7 +906,7 @@
 
 - num: 39
   text:
-    pl: "[W szczególności, jeśli są Państwo posiadaczami praw autorskich:] Jakie widzą Państwo różnice między tradycyjną działalnością bibliotek taką jak korzystanie z kolekcji na miejscu lub wypożyczanie i działalnością zdalną (online, z daleka) taką jak zdalne korzystanie z kolekcji i e-wypożyczanie? Jakie napotkali Państwo problemy?"
+    pl: "Jakie widzą Państwo różnice między tradycyjną działalnością bibliotek taką jak korzystanie z kolekcji na miejscu lub wypożyczanie i działalnością zdalną (online, z daleka) taką jak zdalne korzystanie z kolekcji i e-wypożyczanie? Jakie napotkali Państwo problemy?"
     en: "What difference do you see between libraries’ traditional activities such as on-premises consultation or public lending and activities such as off-premises (online, at a distance) consultation and e-lending? What problems have you encountered?"
   to: right holder
   type: open_question
@@ -900,7 +918,7 @@
 
 - num: 40
   text:
-    pl: "[W szczególności, jeśli są Państwo użytkownikami instytucjonalnymi zaangażowanymi bądź pragnącymi zaagażować się w projekty masowej digitalizacji, posiadaczami praw autorskich, przedstawicielami organizacji zbiorowego zarządzania:] Czy w Państwa kraju byłoby konieczne wydanie przepisów prawnych, aby zapewnić, że rezultaty Porozumienia z 2001 r. (tj. umów zawartych pomiędzy bibliotekami i organizacjami zbiorowego zarządzania) są skuteczne transgranicznie, aby w całej Europie zapewnić dostęp do utworów niedostępnych w handlu?"
+    pl: "Czy w Państwa kraju byłoby konieczne wydanie przepisów prawnych, aby zapewnić, że rezultaty Porozumienia z 2001 r. (tj. umów zawartych pomiędzy bibliotekami i organizacjami zbiorowego zarządzania) są skuteczne transgranicznie, aby w całej Europie zapewnić dostęp do utworów niedostępnych w handlu?"
     en: "Would it be necessary in your country to enact legislation to ensure that the results of the 2011 MoU (i.e. the agreements concluded between libraries and collecting societies) have a cross-border effect so that out of commerce works can be accessed across the EU?"
   to: "institutional user, engaging or wanting to engage in mass digitalisation, a right holder, collective management organisation"
   type: multiple_choice
@@ -908,6 +926,7 @@
   - label: 'Yes'
     details:
       en: "Please explain why and how it could best be achieved"
+      pl: "Please wyjaśnić dlaczego i jak to może zostać osiągnięte"
     fulltext: true
     odf:
       - action: mark
@@ -1121,6 +1140,7 @@
   - label: 'Yes'
     details:
       en: "Please explain by giving examples"
+      pl: "Proszę wyjaśnić poprzez podanie przykładów"
     fulltext: true
     odf:
       - action: mark
@@ -1296,6 +1316,7 @@
   - label: 'Yes'
     details:
       en: "Please explain by giving examples"
+      pl: "Proszę wyjaśnić poprzez podanie przykładów"
     fulltext: true
     odf:
       - action: mark
@@ -1565,6 +1586,7 @@
   - label: 'Yes'
     details:
       en: "Please specify the type of transaction and indicate the percentage of the undue payments. Please also indicate how a priori exemption and/or ex post reimbursement schemes could help to remedy the situation."
+      pl: "Proszę określić rodzaj transakcji i określić procentowo skalę nienależnych płatności. Proszę także określić jak mechanizmy zwalniania z opłat a priori i/lub zwrotu kosztów mogłyby pomóc w rozwiązywaniu takich sytuacji."
     fulltext: true
     odf:
       - action: mark
