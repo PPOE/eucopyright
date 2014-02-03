@@ -1,71 +1,73 @@
 ---
 layout: base
 title: "Aiuta a riformare il diritto d'autore!"
-icon: /img/30c3/icon.png
+icon: http://copywrongs.eu/img/30c3/icon.png
 language: it
 ---
-<style type="text/css"> @import "../css/30c3.css"; </style>
-<style type="text/css"> @import "../css/font-awesome.min.css"; </style>
-<script type="text/javascript" src="../js/30c3.js"></script>
-<script type="text/javascript">
-  var guideSlug = 'crew_30c3_it'
+<style type="text/css"> @import "css/30c3.css"; </style>
+<style type="text/css"> @import "css/font-awesome.min.css"; </style>
+<script type="text/javascript" src="js/30c3.js"></script>
+<script>
+var guideSlug = 'crew_30c3_it'
 </script>
 
 <div class="container step-start">
   <div id="step-start" class="jumbotron">
-    
-    {% include 30c3_lang.html %}
 
+    {% include 30c3_lang.html %}
+    
     <h1>Aiuta a riformare il diritto d'autore!</h1>
 
-    <p><strong>L'Unione europea vuole la tua opinione</strong> riguardo alla riforma del diritto d'autore. Su questo sito ti abbiamo reso più semplice rispondere alla <a href="http://ameliaandersdotter.eu/copyright-consultation-model-responses">consultazione ufficiale dell'Unione europea</a>rimuovendo le domande che non ti riguardano. Insieme possiamo far sentire la tua voce e le tue opinioni!</p>
-    <p><small>Puoi rispondere a tutte le domande in <a href="http://en.wikipedia.org/wiki/Languages_of_the_European_Union"> una dei 24 lingue europe a tua scelta</a>!</small></p>
+    <p><strong>L'Unione europea vuole sentire la tua opinione</strong> sulla riforma del diritto d'autore. L'obiettivo di questo sito è quello di rendere più semplice per te rispondere alla <a href="http://ameliaandersdotter.eu/copyright-consultation-model-responses">consultazione ufficiale dell'Unione europea</a> rimuovendo le domande che non ti riguardano direttamente. Insieme possiamo far sentire la tua voce e le tue opinioni!</p>
+    
+    <p><small>Un'ulteriore informazione: puoi rispondere a tutte le domande in <a href="https://it.wikipedia.org/wiki/Lingue_dell'Unione_europea">una dei 24 lingue ufficili dell'Unione Europea</a>, a tua scelta!</small></p>
     
     <h2>Quali di questi problemi con il diritto d'autore hai incontrato nell'Unione europea?</h2>
     <ul>
-      {% include problem.html key="youtube" text="Non posso guardare video su YouTube nel mio paese" %}
-      {% include problem.html key="imagesharing" text="Confusione riguardo la legalità dello sharing di immagini su Facebook, Tumblr,…" %}
-      {% include problem.html key="filesharingconfusion" text="Confusione riguardo la legalità del filesharing/torrenting o sono addirittura finito/a nei guai a causa del filesharing/torrenting." %}
-      {% include problem.html key="drm" text="Non ho potuto usare liberamente dei contenuti multimediali che ho comprato a causa del DRM, infatti ho avuto meno libertà in che nel mondo offline/analogico" %}
-      {% include problem.html key="resell" text="Ho speso tanti soldi su musica e libri digitali ma non posso rivenderli." %}
-      {% include problem.html key="mediacountry" text="Alcuni contenuti non sono acquistabili nel mio paese o un sito web che volevo usare è bloccato nel mio paese." %}
-      {% include problem.html key="remix" text="Ho paura a fare un remix per paura di ripercussioni." %}
-      {% include problem.html key="subtitle" text="Confusione riguardo la legalità di creare sottotitoli, tradurre, convertire, etc." %}
-      {% include problem.html key="fanfiction" text="La mia fan fiction o fan art potrebbe essere illegale" %}
-      {% include problem.html key="stolencontent" text="Qualcuno ha rubato i miei contenuti" %}
-      {% include problem.html key="takedown" text="Ho fornito servizi web che hanno ricevuto richieste di rimozione e proteste" %}
-      <!--{% include problem.html key="affordmedia" text="I can't afford buying media and feel socially excluded" %}-->
-      {% include problem.html key="travel" text="Quando viaggio in un altro paese membro, non sono sicuro/a di come la legge sul diritto d'autore differisca rispetto al mio paese d'origine" %}
-      <!--{% include problem.html key="cclicense" text="Collection society doesn't allow me to release my music under a Creative Commons license" %}-->
-	  {% include problem.html key="enforcement" text="Ho avuto esperienza del fatto che l'applicazione delle leggi sul diritto d'autore mette gli interessi dei possessori dei diritti al di sopra quelli dei cittadini" %}
-      {% include problem.html key="links" text="Confusione riguardo la legalità di condividere collegamenti a contenuti protetti da diritto d'autore." %}
-      <!--{% include problem.html key="duration" text="I feel like copyright duration is excessively long" %}-->
+      {% include problem.html key="youtube" text="Alcuni video su YouTube non sono disponibili nel mio Paese." %}
+      {% include problem.html key="imagesharing" text="Sono confuso sulla legalità della condivisione di immagini su Facebook, Tumblr, ecc." %}
+      {% include problem.html key="filesharingconfusion" text="Sono confuso sulla legalità del file sharing e della condivisione file attraverso il sistema Torrent e/o sono finit* nei guai a causa di esso." %}
+	  {% include problem.html key="drm" text="Non ho potuto usare liberamente dei contenuti multimediali che ho comprato a causa del DRM. Infatti ho avuto meno libertà che avrei avuto nel mondo offline/analogico." %}
+      {% include problem.html key="resell" text="Ho speso tanti soldi in brani musicali e libri digitali ma non posso rivendere ciò che non voglio più o che non mi servono più." %}
+      {% include problem.html key="mediacountry" text="Alcuni contenuti non sono acquistabili nel mio Paese e/o un sito web che volevo usare è bloccato nel mio Paese." %}
+      {% include problem.html key="remix" text="Non oso fare un remix per paura di ripercussioni.s" %}
+      {% include problem.html key="subtitle" text="Sono confuso sulla legalità di creare sottotitoli, tradurre o convertire documenti" %}
+      {% include problem.html key="fanfiction" text="La mia fan fiction o fan art potrebbe essere illegale." %}
+      {% include problem.html key="stolencontent" text="I miei contenuti sono stati copiati senza alcun permesso." %}
+      {% include problem.html key="takedown" text="I servizi web che uso hanno ricevuto richieste di rimozione e proteste a causa di potenzionali violazioni del diritto d'autore." %}
+      <!--{% include problem.html key="affordmedia" text="Non posso permettermi di comprare materiale multimediale e mi sento socialmente escluso" %}-->
+      {% include problem.html key="travel" text="Quando viaggio in un altro Paese membro dell'Unione Europea, non sono sicur* di come la legge sul diritto d'autore differisca rispetto al mio Paese d'origine" %}
+      <!--{% include problem.html key="cclicense" text="La società non mi permette di pubblicare la mia musica sotto licenza Creative Commons" %}-->
+	  {% include problem.html key="enforcement" text="Ho avuto esperienza del fatto che l'applicazione delle leggi sul diritto d'autore mette gli interessi dei possessori dei diritti al di sopra quelli dei cittadini." %}
+      {% include problem.html key="links" text="Sono confuso sulla legalità di condividere collegamenti a contenuti protetti da diritto d'autore" %}
+      {% include problem.html key="duration" text="Credo che la durata della validità del diritto d'autore sia eccessivamente lunga" %}
     </ul>
+    
 
-    <a href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="start(this)">Avanti &raquo;</a>
+    <a href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="start(this)">Continua &raquo;</a>
 
-    <p><br /><small>Vuoi <a href="http://youcan.fixcopyright.eu/">rispondere al questionario completo di 80 domande</a> invece che a questo questionario semplificato? Non è necessario rispondere a tutte le domande.</small></p>
+    <p><br /><small>Vorresti <a href="http://youcan.fixcopyright.eu/">rispondere al questionario completo di 80 domande</a> al posto di questo questionario semplificato? Non è necessario rispondere a tutte le domande.</small></p>
   </div>
 
   <div id="step-problem" class="jumbotron">
     <p>Il tuo problema:</p>
     <h2></h2>
-    <p>Questo problema è correlato alla seguente domanda nella consultazione:</p>
+    <p>Questo problema è correlato alla/e seguente/i domanda/e nella consultazione:</p>
     <div id="problem"></div>
     <a id="next" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="step()">Problema successivo &raquo;</a>
     <div class="form-group give-name" style="display:none">
       <label for="name">Il tuo nome</label>
-      <input type="text" class="form-control" id="name" placeholder="Inserisce il tuo nome">
+      <input type="text" class="form-control" id="name" placeholder="Inserisci il tuo nome">
       <p class="help-block">
-        Attenzione, i tuoi contributi saranno <strong>pubblicati su Internet</strong> dall'Unione europea!<br />
+        Attenzione, i tuoi contributi <strong>saranno pubblicati su Internet</strong> dall'Unione europea!<br />
         Non devi fornire il tuo nome, ma è racommandato.
       </p>
     </div>
-    <a href="javascript:void(0)" class="download-document btn btn-primary btn-lg">Invia risposte &raquo;</a>
+    <a href="javascript:void(0)" class="download-document btn btn-primary btn-lg">Invia le risposte &raquo;</a>
   </div>
 
   <div id="step-end" class="jumbotron">
-    <h2>Adesso manda il tuo feedback!</h2>
+    <h2>Adesso manda il tuo feedback alla Commissione Europea</h2>
 
     <!-- prefilled fields -->
     <input type="hidden" name="typeofrespondent" value="enduser" checked>
@@ -76,10 +78,10 @@ language: it
         <a id="download" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="">Scarica il modulo</a>
       </li>
       <li>
-        <a href="mailto:markt-copyright-consultation@ec.europa.eu?subject={{ "My contribution to the copyright consultation" | uri_escape }}&body={{ "PLEASE MAKE SURE THE FILE consultation-document_en.odt WHICH YOU DOWNLOADED IS ATTACHED TO THIS EMAIL AND REMOVE THIS NOTICE" | uri_escape }}" target="_blank" class="btn btn-primary btn-lg">Invia il documento scaricato per posta elettronica</a> a
+        <a href="mailto:markt-copyright-consultation@ec.europa.eu?subject={{ "Il mio contributo alla consultazione sul copyright" | uri_escape }}&body={{ "PER FAVORE, ASSICURATI CHE IL FILE consultation-document_en.odt CHE HAI SCARICATO SIA ALLEGATO A QUESTA EMAIL E RIMUOVI QUESTO AVVISO" | uri_escape }}" target="_blank" class="btn btn-primary btn-lg">Invia il documento scaricato per posta elettronica</a>
         <input size="43" value="markt-copyright-consultation@ec.europa.eu" onclick="this.select()" />
         <p>
-          <small>Si applica il <a href="http://ec.europa.eu/internal_market/consultations/2013/copyright-rules/docs/privacy-statement_en.pdf">regolamento sulla privacy dell'Unione europea</a>.</small>
+          <small>Viene applicato il <a href="http://ec.europa.eu/internal_market/consultations/2013/copyright-rules/docs/privacy-statement_en.pdf">regolamento sulla privacy dell'Unione europea</a>.</small>
         </p>
       </li>
     </ol>
@@ -89,17 +91,17 @@ language: it
     <p>Vuoi condividere questa pagina con i tuoi amici? Più risposte riceve l'Unione europea, migliore sarà la riforma.</p>
 	
 	<ul class="fa-ul">
-		<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcopywrongs.eu%2F&t=Answer+to+the+EU+Commission+copyright+consultation" target="_blank"><i class="fa fa-facebook-square"></i> Share on Facebook</a></li>
-		<li><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.copywrongs.eu&via=copywrongs&text=Reply%20to%20the%20EC%20copyright%20consultation&related=copywrongs" target="_blank"><i class="fa fa-twitter-square"></i> Share on Twitter</a></li>
-		<li><a href="https://plus.google.com/share?url=http://copywrongs.eu/" target="_blank"><i class="fa fa-google-plus-square"></i> Share on Google+</a></li>
+		<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcopywrongs.eu%2F" target="_blank"><i class="fa fa-facebook-square"></i> Condividi su Facebook</a></li>
+		<li><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.copywrongs.eu&via=copywrongs&text={{ "Ho detto all'Unione Europea cosa penso sulla riforma del copyright. Fallo anche tu!" | uri_escape }}&related=copywrongs" target="_blank"><i class="fa fa-twitter-square"></i> Condividi su Twitter</a></li>
+		<li><a href="https://plus.google.com/share?url=http://copywrongs.eu/" target="_blank"><i class="fa fa-google-plus-square"></i> Condividi su Google+</a></li>
 	</ul>
 
   </div>
 
   <div id="credits">
-	  Puoi contattarci <a href="mailto:hello@copywrongs.eu">via email</a>, 
-	  o <a href="https://twitter.com/CopyWrongs">su Twitter</a> &middot; fatto nel <a href="https://events.ccc.de/congress/2013/"><img src="../img/30c3/30c3.png" width="100" /></a> &middot;
-	Usiamo <a href="http://fontawesome.io/">Font Awesome</a>.
+	  Contattaci <a href="mailto:hello@copywrongs.eu">via email</a>, 
+	  o <a href="https://twitter.com/CopyWrongs">su Twitter</a> &middot; fatto nel <a href="https://events.ccc.de/congress/2013/"><img src="img/30c3/30c3.png" width="100" /></a> &middot;
+	Uses <a href="http://fontawesome.io/">Font Awesome</a>.
 	  <a href="https://github.com/PPOE/eucopyright"><i class="fa fa-github"></i> Fork su GitHub</a>
   </div>
 </div>
