@@ -6,7 +6,8 @@ var guideSlug = 'crew_30c3';
 var problems2questions = {
   youtube: [1],
   imagesharing: [58],
-  sharingcriminalization: [23],
+  sharingcriminalization: [80],
+  filesharingconfusion: [80],
   drm: [64],
   resell: [13],
   mediacountry: [21],
@@ -18,7 +19,6 @@ var problems2questions = {
   affordmedia: [20],
   travel: [22],
   cclicense: [15],
-  filesharingconfusion: [80],
   enforcement: [77],
   links: [11],
   duration: [20]
