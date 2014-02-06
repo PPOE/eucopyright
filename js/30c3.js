@@ -29,6 +29,12 @@ function start(btn) {
   $('.download-document').click(function(){
     var data = EUCopyright.collectData();
     EUCopyright.compile(data, EUCopyright.settings).done(EUCopyright.createDownload);
+    EUCopyright.trackGoal(1);
+    var email = $('*[name=email]').val();
+    if (email) {
+      EUCopyright.trackGoal(2);
+      $('#consultation-form').submit();
+    }
   });
   $('input[type=checkbox]').each(function(i, cb) {
     if (cb.checked) {

@@ -17,7 +17,6 @@ language: en
 
     <p><strong>The European Commission wants to hear your opinion</strong> on copyright reform. The aim of this site is to make it easier for you to respond to the <a href="http://ameliaandersdotter.eu/copyright-consultation-model-responses">official EU consultation</a> by filtering out the questions that do not relate to you directly. Together we can make our opinions and experiences heard!</p>
     <p><small>One more thing: You can answer the question in any of the <a href="http://en.wikipedia.org/wiki/Languages_of_the_European_Union">24 official European languages</a> you are comfortable with!</small></p>
-    
     <h2>Which of these problems have you encountered with copyright in the EU?</h2>
     <ul>
       {% include problem.html key="youtube" text="YouTube videos are not available/playable in my country" %}
@@ -45,22 +44,41 @@ language: en
     <p><br /><small>Would you like to <a href="http://youcan.fixcopyright.eu/">respond to the full 80-question consultation</a> rather than this simplified form? It's not necessary to answer all the questions.</small></p>
   </div>
 
-  <div id="step-problem" class="jumbotron">
-    <p>Your problem:</p>
-    <h2></h2>
-    <p>This problem relates to the following question(s) in the consultation:</p>
-    <div id="problem"></div>
-    <a id="next" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="step()">Next problem &raquo;</a>
-    <div class="form-group give-name" style="display:none">
-      <label for="name">Your name</label>
-      <input type="text" class="form-control" id="name" placeholder="Enter your name">
-      <p class="help-block">
-        Please note that your contributions <strong>will be published online</strong> by the EU!<br />
-        You don't have to give your name, but it is recommended.
-      </p>
+  <form id="consultation-form" method="post" action="{{ site.document_service }}">
+    <input type="hidden" name="language" value="{{ page.language }}" />
+
+    <div id="step-problem" class="jumbotron">
+      <p>Your problem:</p>
+      <h2></h2>
+      <p>This problem relates to the following question(s) in the consultation:</p>
+      <div id="problem"></div>
+      <a id="next" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="step()">Next problem &raquo;</a>
+      <div class="form-group give-name" style="display:none">
+        <label for="name">Your full name</label>
+        <input type="text" class="form-control save" name="name" id="name" placeholder="Enter your name">
+        <p class="help-block">
+          Please provide your name to make your voice count.
+        </p>
+      </div>
+      <div class="form-group give-name" style="display:none">
+        <label for="email"><span class="hidden-xs hidden-sm">Optional (use this when you are on Safari or IE): </span>Your email address</label>
+        <input type="email" class="form-control save" name="email" placeholder="your@email.eu">
+        <p class="help-block">
+          <strong class="visible-xs visible-sm">The finished document will be sent to your email address.</strong>
+          <span class="hidden-xs hidden-sm">We can send you the finished document by email.</span>
+          <small>Your email address and all other input will <strong>not</strong> be used except for sending you the finished document.</small>
+        </p>
+      </div>
+      <a href="javascript:void(0)" class="download-document btn btn-primary btn-lg">Send answers &raquo;</a>
     </div>
-    <a href="javascript:void(0)" class="download-document btn btn-primary btn-lg">Send answers &raquo;</a>
-  </div>
+
+    <div id="questions"><!-- visually hidden -->
+      {% for question in site.data.questions %}
+      {% include question_only.html %}
+      {% endfor %}
+    </div>
+
+  </form>
 
   <div id="step-end" class="jumbotron">
     <h2>Now send your feedback to the European Commission</h2>
@@ -100,10 +118,4 @@ language: en
 	Uses <a href="http://fontawesome.io/">Font Awesome</a>.
 	  <a href="https://github.com/PPOE/eucopyright"><i class="fa fa-github"></i> Fork on GitHub</a>
   </div>
-</div>
-
-<div id="questions"><!-- visually hidden -->
-{% for question in site.data.questions %}
-  {% include question_only.html %}
-{% endfor %}
 </div>
