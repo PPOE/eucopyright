@@ -48,22 +48,44 @@ var guideSlug = 'crew_30c3_de'
     <p><br /><small>Möchstest du lieber <a href="http://youcan.fixcopyright.eu/de/">diesen kompletten, 80 Fragen umfassenden Katalog</a> als diese vereinfachte Version beantworten? Es ist nicht notwendig, alle Fragen zu beantworten.</small></p>
   </div>
 
-  <div id="step-problem" class="jumbotron">
-    <p>Dein Problem:</p>
-    <h2></h2>
-    <p>Dieses Problem hängt mit folgenden Fragen zusammen:</p>
-    <div id="problem"></div>
-    <a id="next" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="step()">Nächstes Problem &raquo;</a>
-    <div class="form-group give-name" style="display:none">
-      <label for="name">Dein Name</label>
-      <input type="text" class="form-control" id="name" placeholder="Trage deinen Namen ein">
-      <p class="help-block">
-        Bitte beachte, dass deine Angaben von der EU <strong>im Internet veröffentlicht</strong> werden!<br />
-        Du musst zwar deinen Namen nicht angeben aber es wird empfohlen.
-      </p>
+  <form id="consultation-form" method="post" action="{{ site.document_service }}">
+    <input type="hidden" name="language" value="{{ page.language }}" />
+
+    <div id="step-problem" class="jumbotron">
+      <p>Dein Problem:</p>
+      <h2></h2>
+      <p>Dieses Problem hängt mit folgenden Fragen zusammen:</p>
+      <div id="problem"></div>
+      <a id="next" href="javascript:void(0)" class="btn btn-primary btn-lg" onclick="step()">Nächstes Problem &raquo;</a>
+      <div class="form-group give-name" style="display:none">
+        <label for="name">Trage deinen Namen ein</label>
+        <input type="text" class="form-control save" name="name" id="name" placeholder="Enter your name">
+        <p class="help-block">
+          Bitte beachte, dass deine Angaben von der EU <strong>im Internet veröffentlicht</strong> werden!<br />
+          Du musst zwar deinen Namen nicht angeben aber es wird empfohlen.
+        </p>
+      </div>
+      <div class="form-group give-name" style="display:none">
+        <label for="email"><span class="hidden-xs hidden-sm">Optional (vor allem mit Safari oder IE bitte verwenden): </span>Deine Email Adresse</label>
+        <input type="email" class="form-control save" name="email" placeholder="your@email.eu">
+        <p class="help-block">
+          <strong class="visible-xs visible-sm">Das fertige Dokument wird an deine Email Adresse geschickt.</strong>
+          <span class="hidden-xs hidden-sm">Wir können dir das fertige Dokument per email schicken.</span>
+          <small>Deine Email Adresse and deine Eingaben werden <strong>nicht</strong> verwendet außer um dir dein fertiges Dokument zu schicken.</small>
+        </p>
+      </div>
+      <a href="javascript:void(0)" class="download-document btn btn-primary btn-lg">Antworten verschicken &raquo;</a>
     </div>
-    <a href="javascript:void(0)" class="download-document btn btn-primary btn-lg">Antworten verschicken &raquo;</a>
-  </div>
+
+    <div id="questions"><!-- visually hidden -->
+      {% for question in site.data.questions %}
+      {% include question_only.html %}
+      {% endfor %}
+    </div>
+
+  </form>
+
+
 
   <div id="step-end" class="jumbotron">
     <h2>Schicke dein Feedback nun an die Europäische Kommission</h2>
@@ -101,10 +123,4 @@ var guideSlug = 'crew_30c3_de'
     Kontaktiere uns <a href="mailto:hello@copywrongs.eu">per E-Mail</a> oder <a href="https://twitter.com/CopyWrongs">auf Twitter</a> &middot; gemacht am <a href="https://events.ccc.de/congress/2013/"><img src="../img/30c3/30c3.png" width="100" /></a>
   </div>
   
-</div>
-
-<div id="questions"><!-- visually hidden -->
-{% for question in site.data.questions %}
-  {% include question_only.html %}
-{% endfor %}
 </div>
