@@ -1,16 +1,20 @@
 "Yes":
   de: Ja
   pl: Tak
+  el: Ναι
 "No":
   de: Nein
   pl: Nie
+  el: Όχι
 "No Opinion":
   de: Keine Meinung
   pl: Brak opinii
+  el: Χωρίς Γνώμη
 emailSubject:
   en: 'Public Consultation on the review of the EU copyright rules'
   de: 'Öffentliche Konsultation zur Überprüfung der Regeln zum EU-Urheberrecht'
   pl: 'Konsultacje publiczne w sprawie prawa autorskiego UE'
+  el: 'Δημόσια Διαβούλευση για την αναθεώρηση των κανόνων περί πνευματικών δικαιωμάτων στην ΕΕ'
 # Keep trailing spaces in the following!
 emailBody:
   en: |
@@ -31,11 +35,19 @@ emailBody:
     proszę o przesłanie tej wiadomości WRAZ Z ZAŁĄCZNIKIEM na adres: markt-copyright-consultation@ec.europa.eu
     
     Dziękuję!
+  el: |
+    Αγαπητέ/Αγαπητή {{ name }},
+    
+    Παρακαλώ ΠΡΟΩΘΗΣΤΕ αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου ΜΕ ΤΟ ΣΥΝΗΜΜΕΝΟ, στο: markt-copyright-consultation@ec.europa.eu
+    
+    Ευχαριστώ!
 emailName:
   en: 'user'
   de: 'Nutzer/in'
   pl: 'użytkownik'
+  el: 'χρήστης'
 replyInLanguage:
   en: "Reply in English"
   de: "Antworte auf Deutsch"
   pl: "Odpowiedz po polsku"
+  el: "Απάντηση στα Ελληνικά"
