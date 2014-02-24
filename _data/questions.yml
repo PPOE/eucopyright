@@ -9,7 +9,7 @@
     nl: Heb je ooit problemen ondervonden wanneer je online diensten uit andere lidstaten dan jouw eigen land probeert te gebruiken?
     cz: "Čelili jste již problémům v případě přístupu k online službám v jiném členském státě, než je vaše vlast?"
     ro: "Ai avut probleme incercand sa accesezi servicii online intr-un stat membru al UE altul decat cel in care locuiesti?"
-	el: "Έχεις αντιμετωπίσει προβλήματα στην προσπάθεια να αποκτήσεις πρόσβαση σε online υπηρεσίες σε ένα κράτος-μέλος της ΕΕ, άλλο από εκείνο στο οποίο ζεις;"
+    el: "Έχεις αντιμετωπίσει προβλήματα στην προσπάθεια να αποκτήσεις πρόσβαση σε online υπηρεσίες σε ένα κράτος-μέλος της ΕΕ, άλλο από εκείνο στο οποίο ζεις;"
   to: enduser
   type: multiple_choice
   explanation:
@@ -19,7 +19,7 @@
       en: "Please provide examples indicating the Member State, the sector and the type of content concerned (e.g. premium content such as certain films and TV series, audio-visual content in general, music, e-books, magazines, journals and newspapers, games, applications and other software)"
       de: "Bitte gib Beispiele mit deinem Land, dem Art des Inhalts an (z.B. Premium-Inhalte wie bestimmte Filme, TV-Serien, Musik, E-Books, Magazine, Zeitschriften und Zeitungen, Spiele, Anwendungen und andere Software)"
       pl: "Proszę podać przykłady, wskazując nazwy krajów UE w których wystąpiły, sektor działalności oraz rodzaj treści którego dotyczyły problemy (np. niektóre filmy albo seriale, materiały audiowizualne ogólnie, muzyka, książki, magazyny, gry, oprogramowanie)"
-	  el: "Παρακαλώ δώστε παραδείγματα αναφέροντας το κράτος-μέλος, τον τομέα και τον τύπο του εν λόγω περιεχομένου (πχ. Πριμοδοτημένο περιεχόμενο, όπως ορισμένες ταινίες και τηλεοπτικές σειρές, οπτικοακουστικό περιεχόμενο γενικότερα, μουσική, e-books, περιοδικά και εφημερίδες, παιχνίδια, εφαρμογές και άλλο λογισμικό)"
+      el: "Παρακαλώ δώστε παραδείγματα αναφέροντας το κράτος-μέλος, τον τομέα και τον τύπο του εν λόγω περιεχομένου (πχ. Πριμοδοτημένο περιεχόμενο, όπως ορισμένες ταινίες και τηλεοπτικές σειρές, οπτικοακουστικό περιεχόμενο γενικότερα, μουσική, e-books, περιοδικά και εφημερίδες, παιχνίδια, εφαρμογές και άλλο λογισμικό)"
     fulltext: true
     odf:
       - action: mark
@@ -43,7 +43,7 @@
     en: Have you faced problems when seeking to provide online services across borders in the EU?
     de: "Hattest du schon einmal Probleme, als du Dienstleistungen in der EU über Grenzen hinweg anbieten wolltest?"
     nl: Ben je wel eens in de problemen gekomen als je probeert om jouw online diensten aan te bieden in de EU?
-	el: "Έχεις αντιμετωπίσει προβλήματα στην προσπάθεια να παρέχεις online υπηρεσίες σε διασυνοριακό επίπεδο στην ΕΕ;"
+    el: "Έχεις αντιμετωπίσει προβλήματα στην προσπάθεια να παρέχεις online υπηρεσίες σε διασυνοριακό επίπεδο στην ΕΕ;"
   to: service provider
   type: multiple_choice
   explanation:
@@ -53,7 +53,7 @@
       en: "Please explain whether such problems, in your experience, are related to copyright or to other issues (e.g. business decisions relating to the cost of providing services across borders, compliance with other laws such as consumer protection)? Please provide examples indicating the Member State, the sector and the type of content concerned (e.g. premium content such as certain films and TV series, audio-visual content in general, music, e-books, magazines, journals and newspapers, games, applications and other software)."
       de: "Bitte beschreibe, ob diese Probleme deiner Erfahrung nach mit dem Urheberrecht oder mit anderen Problemen zusammenhängen (z.B. Unternehmensentscheidungen zu Kosten grenzüberschreitender Dienste, Einhaltung anderer Gesetze wie Verbraucherschutz)? Bitte gib Beispiele mit Mitgliedsstaat, Sektor und Art von Inhalt (z.B. Premium-Inhalte wie bestimmte Filme, TV-Serien, Musik, E-Books, Magazine, Zeitschriften und Zeitungen, Spiele, Anwendungen und andere Software)."
       pl: "Proszę wyjaśnić, czy te problemy wg Twojego doświadczenia, wynikają z prawa autorskiego czy z innych powodów (np. decyzje biznesowe które ograniczają udostępnianie różnych usług zagranicą, konieczność utrzymania zgodności z innymi prawami jak np. dot. ochrony konsumentów)? Proszę podać przykłady, wskazując nazwy krajów UE w których wystąpiły, sektor działalności oraz rodzaj treści którego dotyczyły problemy (np. niektóre filmy albo seriale, materiały audiowizualne ogólnie, muzyka, książki, magazyny, gry, oprogramowanie)"
-	  el: "Παρακαλώ να εξηγήσετε αν τέτοιου είδους προβλήματα, από την εμπειρία σας, σχετίζονται με τα πνευματικά δικαιώματα ή άλλα ζητήματα (πχ. επιχειρηματικές αποφάσεις που σχετίζονται με το κόστος της παροχής υπηρεσιών πέραν των συνόρων, σύμφωνα με άλλους νόμους, όπως η προστασία των καταναλωτών); Παρακαλώ δώστε παραδείγματα αναφέροντας το κράτος-μέλος, τον τομέα και τον τύπο του εν λόγω περιεχομένου (πχ. Πριμοδοτημένο περιεχόμενο, όπως ορισμένες ταινίες και τηλεοπτικές σειρές, οπτικοακουστικό περιεχόμενο γενικότερα, μουσική, e-books, περιοδικά και εφημερίδες, παιχνίδια, εφαρμογές και άλλο λογισμικό)"
+      el: "Παρακαλώ να εξηγήσετε αν τέτοιου είδους προβλήματα, από την εμπειρία σας, σχετίζονται με τα πνευματικά δικαιώματα ή άλλα ζητήματα (πχ. επιχειρηματικές αποφάσεις που σχετίζονται με το κόστος της παροχής υπηρεσιών πέραν των συνόρων, σύμφωνα με άλλους νόμους, όπως η προστασία των καταναλωτών); Παρακαλώ δώστε παραδείγματα αναφέροντας το κράτος-μέλος, τον τομέα και τον τύπο του εν λόγω περιεχομένου (πχ. Πριμοδοτημένο περιεχόμενο, όπως ορισμένες ταινίες και τηλεοπτικές σειρές, οπτικοακουστικό περιεχόμενο γενικότερα, μουσική, e-books, περιοδικά και εφημερίδες, παιχνίδια, εφαρμογές και άλλο λογισμικό)"
     fulltext: true
     odf:
       - action: mark
@@ -76,7 +76,7 @@
     pl: "Jak często spotykają się Państwo z prośbą o licencje wieloterytorialne? Jeśli to możliwe, proszę podać liczbę zapytań w skali roku oraz przykłady z informacją, z jakiego kraju członkowskiego i z jakiego sektora pochodziło zapytanie oraz jakiego rodzaju usług/treści dotyczyło."
     en: "How often are you asked to grant multi-territorial licences? Please indicate, if possible, the number of requests per year and provide examples indicating the Member State, the sector and the type of content concerned."
     nl: Hoe vaak word je gevraagd om licenties over meerdere landen te verstrekken? Indien mogelijk, geef alsjeblief een indicatie van het aantal verzoeken per jaar en voorbeelden met vermelding van de lidstaat, sector en type werk in kwestie.
-	en: "Πόσο συχνά σας ζητούν να χορηγήσετε άδειες πολλαπλής εδαφικής ισχύος; Παρακαλώ, σημειώστε, αν είναι δυνατόν, τον αριθμό των αιτήσεων ανά έτος και παρέχετε παραδείγματα αναφέροντας το κράτος-μέλος, τον τομέα και τον τύπο του εκάστοτε περιεχομένου."
+    en: "Πόσο συχνά σας ζητούν να χορηγήσετε άδειες πολλαπλής εδαφικής ισχύος; Παρακαλώ, σημειώστε, αν είναι δυνατόν, τον αριθμό των αιτήσεων ανά έτος και παρέχετε παραδείγματα αναφέροντας το κράτος-μέλος, τον τομέα και τον τύπο του εκάστοτε περιεχομένου."
   to: right holder or collective management organisation
   type: open_question
   explanation:
@@ -93,7 +93,7 @@
     en: If you have identified problems in the answers to any of the questions above – what would be the best way to tackle them?
     de: "Falls du schon mal solche Probleme hattest, was kann dagegen unternommen werden?"
     nl: Als je problemen hebt geïdentificeerd in de antwoorden op de bovenstaande vragen - wat zou de makkelijkste manier zijn om ze op te lossen?
-	el: "Αν έχεις εντοπίσει προβλήματα στις απαντήσεις σε οποιαδήποτε από τις παραπάνω ερωτήσεις -ποιος θα ήταν ο καλύτερος τρόπος για την αντιμετώπισή τους;"
+    el: "Αν έχεις εντοπίσει προβλήματα στις απαντήσεις σε οποιαδήποτε από τις παραπάνω ερωτήσεις -ποιος θα ήταν ο καλύτερος τρόπος για την αντιμετώπισή τους;"
   to: everyone
   type: open_question
   explanation:
@@ -108,7 +108,7 @@
     pl: "Czy istnieją powody, dla których - nawet jeśli posiadają Państwo wszelkie niezbędne prawa obejmujące dane terytoria - w dalszym ciągu uznaliby Państwo za konieczne i uzasadnione, aby narzucać ograniczenia terytorialne dostarczycielom usług (na przykład po to, aby uniemożliwić dostęp do pewnych treści w wybranych krajach europejskich)?"
     en: "Are there reasons why, even in cases where you hold all the necessary rights for all the territories in question, you would still find it necessary or justified to impose territorial restrictions on a service provider (in order, for instance, to ensure that access to certain content is not possible in certain European countries)?"
     nl: Zijn er redenen waarom, zelfs in zaken waar je alle noodzakelijke rechten beheert voor alle landen in kwestie, je het nog steeds noodzakelijk zou vinden om restricties per land op een aanbieder van diensten te leggen (bijvoorbeeld om ervoor te zorgen dat bepaalde werken niet toegankelijk zijn in bepaalde Europese landen)?
-	el: "Υπάρχουν λόγοι για τους οποίους, ακόμη και σε περιπτώσεις όπου έχεις αποκτήσει όλα τα απαραίτητα δικαιώματα για όλα τα εν λόγω εδάφη, εξακολουθείς να βρίσκεις ότι είναι απαραίτητο ή δικαιολογημένο να επιβάλλονται εδαφικοί περιορισμοί σε έναν πάροχο υπηρεσιών (προκειμένου, για παράδειγμα, να εξασφαλιστεί ότι η πρόσβαση σε συγκεκριμένο περιεχόμενο δεν είναι θα είναι δυνατή σε ορισμένες ευρωπαϊκές χώρες);"
+    el: "Υπάρχουν λόγοι για τους οποίους, ακόμη και σε περιπτώσεις όπου έχεις αποκτήσει όλα τα απαραίτητα δικαιώματα για όλα τα εν λόγω εδάφη, εξακολουθείς να βρίσκεις ότι είναι απαραίτητο ή δικαιολογημένο να επιβάλλονται εδαφικοί περιορισμοί σε έναν πάροχο υπηρεσιών (προκειμένου, για παράδειγμα, να εξασφαλιστεί ότι η πρόσβαση σε συγκεκριμένο περιεχόμενο δεν είναι θα είναι δυνατή σε ορισμένες ευρωπαϊκές χώρες);"
   to: "right holder, collective management organisation"
   type: multiple_choice
   options:
@@ -116,7 +116,7 @@
     details:
       en: "Please explain by giving examples"
       pl: "Proszę wyjaśnić poprzez podanie przykładów"
-	  el: "Παρακαλώ να εξηγήστε δίνοντας παραδείγματα"
+      el: "Παρακαλώ να εξηγήστε δίνοντας παραδείγματα"
     fulltext: true
     odf:
       - action: mark
@@ -139,7 +139,7 @@
     pl: "Czy istnieją powody, dla których - nawet jeśli nabyli Państwo wszelkie niezbędne prawa obejmujące dane terytoria - w dalszym ciągu uznaliby Państwo za konieczne i uzasadnione, aby narzucać ograniczenia terytorialne odbiorcom swoich usług (na przykład po to, aby przekierować konsumenta na inną stronę niż ta, którą pierwotnie chce odwiedzić)?"
     en: "Are there reasons why, even in cases where you have acquired all the necessary rights for all the territories in question, you would still find it necessary or justified to impose territorial restrictions on the service recipient (in order for instance, to redirect the consumer to a different website than the one he is trying to access)?"
     nl: Zijn er redenen waarom, zelfs in gevallen waar je alle noodzakelijke rechten verworven hebt voor alle landen in kwestie, je het nog steeds noodzakelijk zou vinden om beperkingen per land op een aanbieder van diensten te leggen (om er bijvoorbeeld voor te zorgen dat bepaalde werken niet toegankelijk zijn in bepaalde Europese landen)?
-	el: "Υπάρχουν λόγοι για τους οποίους, ακόμη και σε περιπτώσεις όπου έχεις αποκτήσει όλα τα απαραίτητα δικαιώματα για όλα τα εν λόγω εδάφη, εξακολουθείς να βρίσκεις ότι είναι απαραίτητο ή δικαιολογημένο να επιβάλλονται εδαφικοί περιορισμοί στον αποδέκτη των υπηρεσιών (για παράδειγμα, να ανακατευθύνετε ο καταναλωτής σε μια διαφορετική ιστοσελίδα από αυτήν που προσπαθεί να αποκτήσει πρόσβαση);"
+    el: "Υπάρχουν λόγοι για τους οποίους, ακόμη και σε περιπτώσεις όπου έχεις αποκτήσει όλα τα απαραίτητα δικαιώματα για όλα τα εν λόγω εδάφη, εξακολουθείς να βρίσκεις ότι είναι απαραίτητο ή δικαιολογημένο να επιβάλλονται εδαφικοί περιορισμοί στον αποδέκτη των υπηρεσιών (για παράδειγμα, να ανακατευθύνετε ο καταναλωτής σε μια διαφορετική ιστοσελίδα από αυτήν που προσπαθεί να αποκτήσει πρόσβαση);"
   to: "broadcaster, service provider"
   type: multiple_choice
   options:
@@ -147,7 +147,7 @@
     details:
       en: "Please explain by giving examples"
       pl: "Proszę wyjaśnić poprzez podanie przykładów"
-	  el: "Παρακαλώ να εξηγήστε δίνοντας παραδείγματα"
+      el: "Παρακαλώ να εξηγήστε δίνοντας παραδείγματα"
     fulltext: true
     odf:
       - action: mark
@@ -171,7 +171,7 @@
     en: "Do you think that further measures (legislative or non-legislative, including market- led solutions) are needed at EU level to increase the cross-border availability of content services in the Single Market, while ensuring an adequate level of protection for right holders?"
     de: "Sollten weitere Maßnahmen (Gesetze oder andere, inkl. Initiativen des Marktes) auf EU-Ebene angestoßen werden, um die grenzübergreifende Verfügbarkeit von Inhalten zu gewährleisten?"
     nl: Denk je dat verdere maatregelen (middels wetgeving of niet middels wetgeving, zoals de markt het laten oplossen) op Europees niveau nodig zijn om diensten die werken aanbieden beter bereikbaar te maken over de grenzen binnen de Europese markt, terwijl er een adequaat niveau van bescherming gehandhaafd blijft voor de houders van rechten?
-	el: "Νομίζεις ότι απαιτούνται περαιτέρω μέτρα (νομοθετικά ή μη-νομοθετικά μέτρα, συμπεριλαμβανομένων και λύσεων κατευθυνόμενων από την αγορά) που να απαιτούνται σε επίπεδο ΕΕ για την αύξηση της διασυνοριακής διαθεσιμότητας των υπηρεσιών περιεχομένου στην ενιαία αγορά, διασφαλίζοντας παράλληλα ένα επαρκές επίπεδο προστασίας των κατόχων των δικαιωμάτων;"
+    el: "Νομίζεις ότι απαιτούνται περαιτέρω μέτρα (νομοθετικά ή μη-νομοθετικά μέτρα, συμπεριλαμβανομένων και λύσεων κατευθυνόμενων από την αγορά) που να απαιτούνται σε επίπεδο ΕΕ για την αύξηση της διασυνοριακής διαθεσιμότητας των υπηρεσιών περιεχομένου στην ενιαία αγορά, διασφαλίζοντας παράλληλα ένα επαρκές επίπεδο προστασίας των κατόχων των δικαιωμάτων;"
   to: everyone
   type: multiple_choice
   options:
@@ -179,7 +179,7 @@
     details:
       en: "Please explain"
       pl: "Proszę wyjaśnić"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -192,7 +192,7 @@
     details:
       en: "Please explain"
       pl: "Proszę wyjaśnić"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -211,7 +211,7 @@
     pl: 'Czy wystarczająco jasno określono zakres prawa "udostępniania" w przypadkach transgranicznych, tj. wtedy, gdy treści rozpowszechniane są poza granicami państw?'
     en: Is the scope of the “making available” right in cross-border situations – i.e. when content is disseminated across borders – sufficiently clear?
     nl: Is de reikwijdte van het recht om iets 'beschikbaar te maken' in situaties over de grenzen heen - dat is als er werken over de grens gedistribueerd worden - voldoende helder?
-	el: 'Είναι ο σκοπός του δικαιώματος “κάνω διαθέσιμο” σε περιπτώσεις με διασυνοριακό χαρακτήρα -δηλαδή όταν το περιεχόμενο διαδίδεται πέρα από τα σύνορα- αρκετά σαφής;'
+    el: 'Είναι ο σκοπός του δικαιώματος “κάνω διαθέσιμο” σε περιπτώσεις με διασυνοριακό χαρακτήρα -δηλαδή όταν το περιεχόμενο διαδίδεται πέρα από τα σύνορα- αρκετά σαφής;'
   to: everyone
   type: multiple_choice
   options:
@@ -223,7 +223,7 @@
     details:
       en: 'Please explain how this could be clarified and what type of clarification would be required (e.g. as in "targeting" approach explained above, as in "country of origin" approach)'
       pl: 'Proszę wyjaśnić jak to mogłoby zostać doprecyzowane i co powinno zostać zrobione w ramach doprecyzowania?'
-	  el: 'Εξηγήσετε πώς αυτό θα μπορούσε να αποσαφηνιστεί και τι είδους διευκρινίσεις απαιτούνται (πχ. όπως στην προσέγγιση της “στόχευσης” που περιγράφεται παραπάνω, όπως και στην προσέγγιση της “χώρας καταγωγής”'
+      el: 'Εξηγήσετε πώς αυτό θα μπορούσε να αποσαφηνιστεί και τι είδους διευκρινίσεις απαιτούνται (πχ. όπως στην προσέγγιση της “στόχευσης” που περιγράφεται παραπάνω, όπως και στην προσέγγιση της “χώρας καταγωγής”'
     fulltext: true
     odf:
       - action: mark
@@ -242,7 +242,7 @@
     pl: 'Czy doprecyzowanie zakresu terytorialnego prawa "udostępniania" może wpłynąć na respektowanie Państwa praw (niezależnie od tego, czy są Państwo autorami czy nie oraz czy przenieśli Państwo prawa czy nie), wynagrodzenia lub egzekwowanie praw (włącznie z dostępnością roszczeń zakazowych)?'
     en: "Could a clarification of the territorial scope of the “making available” right have an effect on the recognition of your rights (e.g. whether you are considered to be an author or not, whether you are considered to have transferred your rights or not), on your remuneration, or on the enforcement of rights (including the availability of injunctive relief)?"
     nl: Zou een verduidelijking van de territoriale werkingssfeer van het recht "ter beschikking te stellen" een effect kunnen hebben op de erkenning van uw rechten (bijvoorbeeld of u wordt beschouwd de auteur te zijn of niet, of u nu geacht wordt uw rechten te hebben overgedragen of niet), op uw beloning, of op de handhaving van rechten (waaronder de beschikbaarheid van voorlopige voorziening*)?
-	el: 'Θα μπορούσε μια διευκρίνιση του εδαφικού πεδίου εφαρμογής του “κάνω διαθέσιμο” να έχει συνέπειες για την αναγνώριση των δικαιωμάτων σου (πχ. αν θεωρείς ότι είσαι ένας δημιουργός ή όχι, αν θεωρείς ότι έχεις μεταβιβάσει τα δικαιώματά σου ή όχι), για τις αμοιβές σου ή για την επιβολή των δικαιωμάτων (συμπεριλαμβανομένης της διαθεσιμότητας των ασφαλιστικών relief);'
+    el: 'Θα μπορούσε μια διευκρίνιση του εδαφικού πεδίου εφαρμογής του “κάνω διαθέσιμο” να έχει συνέπειες για την αναγνώριση των δικαιωμάτων σου (πχ. αν θεωρείς ότι είσαι ένας δημιουργός ή όχι, αν θεωρείς ότι έχεις μεταβιβάσει τα δικαιώματά σου ή όχι), για τις αμοιβές σου ή για την επιβολή των δικαιωμάτων (συμπεριλαμβανομένης της διαθεσιμότητας των ασφαλιστικών relief);'
   to: right holder
   type: multiple_choice
   options:
@@ -250,7 +250,7 @@
     details:
       en: "Please explain how such potential effects could be addressed"
       pl: "Proszę wyjaśnić co można zrobić w celu przeciwdziałania wspomnianym problemom"
-	  el: "Εξηγήστε πώς θα μπορούσαν να αντιμετωπιστούν τέτοιες πιθανές επιπτώσεις"
+      el: "Εξηγήστε πώς θα μπορούσαν να αντιμετωπιστούν τέτοιες πιθανές επιπτώσεις"
     fulltext: true
     odf:
       - action: mark
@@ -273,7 +273,7 @@
     pl: "Czy zastosowanie dwóch praw do pojedynczego aktu eksploatacji ekonomicznej w środowisku online (np. w przypadku ściągania) jest dla Państwa problemem?"
     en: "Does the application of two rights to a single act of economic exploitation in the online environment (e.g. a download) create problems for you?"
     nl: Leidt het toepassen van twee rechten op een enkele daad van economische uitbating in de online omgeving (bijvoorbeeld een download) tot problemen voor u?
-	el: "Μήπως η εφαρμογή των δύο δικαιωμάτων σε μια ενιαία πράξη οικονομικής εκμετάλλευσης στο διαδικτυακό περιβάλλον (πχ. κατέβασμα/download) μπορεί να δημιουργήσει προβλήματα για σένα;"
+    el: "Μήπως η εφαρμογή των δύο δικαιωμάτων σε μια ενιαία πράξη οικονομικής εκμετάλλευσης στο διαδικτυακό περιβάλλον (πχ. κατέβασμα/download) μπορεί να δημιουργήσει προβλήματα για σένα;"
   to: "service provider, right holder"
   type: multiple_choice
   options:
@@ -281,7 +281,7 @@
     details:
       en: 'Please explain what type of measures would be needed in order to address such problems (e.g. facilitation of joint licences when the rights are in different hands, legislation to achieve the "bundling of rights")'
       pl: 'Proszę wyjaśnić jakie rodzaje działań byłyby wymagane by przeciwdziałać wspomnianym problemom (np. ułatwienie tworzenia łączonych licencji jeśli prawa są w różnych rękach, wprowadzenie prawa służącego tworzeniu "pakietów praw")'
-	  el: 'Παρακαλώ να εξηγήσετε τι είδους μέτρα θα χρειάζονταν για να αντιμετωπίσουν τέτοια προβλήματα (πχ. διευκόλυνση των κοινών αδειών, όταν τα δικαιώματα αυτά είναι σε διαφορετικά χέρια, νομοθεσία για την επίτευξη της “ομαδοποίησης των δικαιωμάτων”)'
+      el: 'Παρακαλώ να εξηγήσετε τι είδους μέτρα θα χρειάζονταν για να αντιμετωπίσουν τέτοια προβλήματα (πχ. διευκόλυνση των κοινών αδειών, όταν τα δικαιώματα αυτά είναι σε διαφορετικά χέρια, νομοθεσία για την επίτευξη της “ομαδοποίησης των δικαιωμάτων”)'
     fulltext: true
     odf:
       - action: mark
@@ -310,7 +310,7 @@
     nl: Moet het verschaffen van een hyperlink die leidt naar een werk of een andere zaak beschermd door het auteursrecht, hetzij in het algemeen of in specifieke omstandigheden, afhankelijk zijn van de toestemming van de rechthebbende?
     cz: Domníváte se, že uveřejnění hypertextového odkazu na dílo nebo jinou práci chráněnou autorskými právy by mělo podléhat buď úplné, nebo v některých případěch omezené autorizaci držitele práv?
     ro: Ar trebui ca utilizarea unui hyperlink ce duce la o lucrare cu continut protejat prin Dreptul de Autor (in mod general sau conform unor circumstante specifice) sa necesite autorizare de la detinatorul acestui Drept de Autor?
-	el: "Σε περίπτωση που η παροχή μιας υπερ-σύνδεσης που οδηγεί σε ένα έργο ή σε άλλο υλικό που προστατεύεται από πνευματικά δικαιώματα, είτε γενικά είτε υπό συγκεκριμένες συνθήκες, αυτή να υπόκειται στην άδεια του δικαιούχου;"
+    el: "Σε περίπτωση που η παροχή μιας υπερ-σύνδεσης που οδηγεί σε ένα έργο ή σε άλλο υλικό που προστατεύεται από πνευματικά δικαιώματα, είτε γενικά είτε υπό συγκεκριμένες συνθήκες, αυτή να υπόκειται στην άδεια του δικαιούχου;"
   to: everyone
   type: multiple_choice
   options:
@@ -318,7 +318,7 @@
     details:
       pl: "Czy uważają Pastwo, że powinno tak być w każdym przypadku, czy tylko w niektórych i dlaczego"
       en: "Please explain whether you consider this to be the case in general, or under specific circumstances, and why"
-	  el: "Να εξηγήσετε αν θεωρείτε ότι αυτή είναι η περίπτωση σε γενικές γραμμές ή υπό συγκεκριμένες συνθήκες, και γιατί"
+      el: "Να εξηγήσετε αν θεωρείτε ότι αυτή είναι η περίπτωση σε γενικές γραμμές ή υπό συγκεκριμένες συνθήκες, και γιατί"
     fulltext: true
     odf:
       - action: mark
@@ -331,7 +331,7 @@
     details:
       en: "Please explain whether you consider this to be the case in general, or under specific circumstances, and why (e.g. because it does not amount to an act of communication to the public – or to a new public, or because it should be covered by a copyright exception)"
       pl: "Please wyjaśnić czy uważasz, że to powinno mieć miejsce zawsze czy tylko w konkteście szczególnych okoliczności i dlaczego (np. ponieważ nie powinno to być traktowane jako publiczne rozpowszechnianie utworu - lub choćby rozpowszechnianie go do nieznanej wcześniej publiczności, lub ponieważ powinno to być zdefiniowane jako wyjątek od praw autorskich)"
-	  el: "Να εξηγήσετε αν θεωρείτε ότι αυτή είναι η περίπτωση σε γενικές γραμμές ή υπό συγκεκριμένες συνθήκες, και γιατί (πχ. επειδή δεν ισοδυναμεί με την πράξη της διάθεσης στο κοινό -ή σε ένα νέο κοινό- ή επειδή πρέπει να είναι καλύπτονται από την εξαίρεση των πνευματικών δικαιωμάτων)"
+      el: "Να εξηγήσετε αν θεωρείτε ότι αυτή είναι η περίπτωση σε γενικές γραμμές ή υπό συγκεκριμένες συνθήκες, και γιατί (πχ. επειδή δεν ισοδυναμεί με την πράξη της διάθεσης στο κοινό -ή σε ένα νέο κοινό- ή επειδή πρέπει να είναι καλύπτονται από την εξαίρεση των πνευματικών δικαιωμάτων)"
     fulltext: true
     odf:
       - action: mark
@@ -351,7 +351,7 @@
     en: "Should the viewing of a web-page where this implies the temporary reproduction of a work or other subject matter protected under copyright on the screen and in the cache memory of the user’s computer, either in general or under specific circumstances, be subject to the authorisation of the rightholder?"
     de: "Soll das Betrachten einer Website, was ja bedeutet, dass urheberrechtsgeschützer Websiteinhalt kurzzeitig reproduziert werden könnte auf den Bildschirm oder in den Cache, entweder generell oder in bestimmten Fällen nur mit Erlaubnis des Rechteinhabers möglich sein?"
     nl: Moet het bekijken van een webpagina waar dit impliceert de tijdelijke reproductie van een werk of ander krachtens het auteursrecht beschermd materiaal op het scherm en in het cachegeheugen van de computer van de gebruiker, hetzij in het algemeen of in specifieke omstandigheden, afhankelijk zijn van de goedkeuring van de rechthebbende?
-	el: "Σε περίπτωση που η προβολή μιας ιστοσελίδας, όπου αυτό συνεπάγεται την προσωρινή αναπαραγωγή ενός έργου ή άλλου προστατευόμενου υλικού από πνευματικά δικαιώματα στην οθόνη και στη μνήμη cache του υπολογιστή του χρήστη, είτε γενικά είτε υπό συγκεκριμένες συνθήκες, να υπόκειται στην έγκριση του δικαιούχου;"
+    el: "Σε περίπτωση που η προβολή μιας ιστοσελίδας, όπου αυτό συνεπάγεται την προσωρινή αναπαραγωγή ενός έργου ή άλλου προστατευόμενου υλικού από πνευματικά δικαιώματα στην οθόνη και στη μνήμη cache του υπολογιστή του χρήστη, είτε γενικά είτε υπό συγκεκριμένες συνθήκες, να υπόκειται στην έγκριση του δικαιούχου;"
   to: everyone
   type: multiple_choice
   options:
@@ -359,7 +359,7 @@
     details:
       en: "Please explain whether you consider this to be the case in general, or under specific circumstances, and why"
       pl: "wyjaśnij czemu i czy zasada ma dotyczyć każdego przeglądania, czy tylko jakichś specyficznych przypadków"
-	  el: "Να εξηγήσετε αν θεωρείτε ότι αυτή είναι η περίπτωση σε γενικές γραμμές ή υπό συγκεκριμένες συνθήκες, και γιατί"
+      el: "Να εξηγήσετε αν θεωρείτε ότι αυτή είναι η περίπτωση σε γενικές γραμμές ή υπό συγκεκριμένες συνθήκες, και γιατί"
     fulltext: true
     odf:
       - action: mark
@@ -372,7 +372,7 @@
     details:
       en: "Please explain whether you consider this to be the case in general, or under specific circumstances, and why (e.g. because it is or should be covered by a copyright exception)"
       pl: " wyjaśnij czemu i czy zasada ma dotyczyć każdego przeglądania, czy tylko jakichś specyficznych przypadków"
-	  el: "Να εξηγήσετε αν θεωρείτε ότι αυτή είναι η περίπτωση σε γενικές γραμμές ή υπό συγκεκριμένες συνθήκες, και γιατί (πχ. επειδή καλύπτονται ή θα πρέπει να καλύπτονται από την εξαίρεση των πνευματικών δικαιωμάτων)"
+      el: "Να εξηγήσετε αν θεωρείτε ότι αυτή είναι η περίπτωση σε γενικές γραμμές ή υπό συγκεκριμένες συνθήκες, και γιατί (πχ. επειδή καλύπτονται ή θα πρέπει να καλύπτονται από την εξαίρεση των πνευματικών δικαιωμάτων)"
     fulltext: true
     odf:
       - action: mark
@@ -397,7 +397,7 @@
     nl: Bent u tegen beperkingen aangelopen toen u probeerde om digitale bestanden weer te verkopen die u aangeschaft heeft (bijv. mp3-bestand, e-book)?
     cz: Setkali jste se již s omezeními v případě pokusu o přeprodej digitálních souborů, které jste si pořídili (např. mp3 soubory, elektronické knihy)
     ro: Ai intampinat restrictii cand ai incercat sa vinzi mai departe fisiere digitale pe care le-ai cumparat? (ex. fisiere mp3, e-book)?
-	el: "Έχεις αντιμετωπίσει περιορισμούς όταν προσπαθείς να μεταπουλήσεις τα ψηφιακά αρχεία που έχεις αγοράσει (πχ. αρχεία mp3, e-books);"
+    el: "Έχεις αντιμετωπίσει περιορισμούς όταν προσπαθείς να μεταπουλήσεις τα ψηφιακά αρχεία που έχεις αγοράσει (πχ. αρχεία mp3, e-books);"
   to: end user/consumer
   type: multiple_choice
   options:
@@ -405,7 +405,7 @@
     details:
       en: "Please explain by giving examples"
       pl: "Proszę wyjaśnić poprzez podanie przykładów"
-	  el: "Παρακαλώ να εξηγήσετε δίνοντας παραδείγματα"
+      el: "Παρακαλώ να εξηγήσετε δίνοντας παραδείγματα"
     fulltext: true
     odf:
       - action: mark
@@ -428,7 +428,7 @@
     pl: "Jakie byłyby konsekwencje stworzenia systemu prawnegoj pozwalającego na odsprzedawanie wcześniej nabytych cyfrowych treści? Proszę określić rodzaj rynku (rodzaj treści)."
     en: What would be the consequences of providing a legal framework enabling the resale of previously purchased digital content? Please specify per market (type of content) concerned.
     nl: Wat zouden de gevolgen zijn van het bieden van een wettelijk kader dat de wederverkoop van eerder gekochte digitale inhoud regelt? Gelieve te specificeren per markt (per type content).
-	el: "Ποιες θα ήταν οι συνέπειες αν παρέχονταν ένα νομικό πλαίσιο που θα επέτρεπε τη μεταπώληση ενός προηγουμένως αγορασμένου ψηφιακού περιεχομένου; Παρακαλώ να προσδιορίσεις ανά σχετική αγορά (τύπος περιεχομένου)."
+    el: "Ποιες θα ήταν οι συνέπειες αν παρέχονταν ένα νομικό πλαίσιο που θα επέτρεπε τη μεταπώληση ενός προηγουμένως αγορασμένου ψηφιακού περιεχομένου; Παρακαλώ να προσδιορίσεις ανά σχετική αγορά (τύπος περιεχομένου)."
   to: "right holder, service provider"
   type: open_question
   odf:
@@ -442,7 +442,7 @@
     pl: "Czy stworzenie systemu rejestracji na poziomie europejskim pomogłoby w identyfikacji i licencjonowaniu utworów i innych przedmiotów prawa autorskiego?"
     en: Would the creation of a registration system at EU level help in the identification and licensing of works and other subject matter?
     nl: Zou de invoering van een registratiesysteem op EU-niveau helpen bij het identificeren en vergunnen van werken en andere onderwerpen?
-	el: "Θα μπορούσε η δημιουργία ενός συστήματος καταχώρησης σε επίπεδο ΕΕ να βοηθήσει στον εντοπισμό και την αδειοδότηση των έργων και άλλου προστατευόμενου υλικού;"
+    el: "Θα μπορούσε η δημιουργία ενός συστήματος καταχώρησης σε επίπεδο ΕΕ να βοηθήσει στον εντοπισμό και την αδειοδότηση των έργων και άλλου προστατευόμενου υλικού;"
   to: everyone
   type: multiple_choice
   options:
@@ -464,7 +464,7 @@
     pl: "Jakie byłyby potencjalne zalety takiego systemu?"
     en: What would be the possible advantages of such a system?
     nl: Wat zijn de mogelijke voordelen van een dergelijk systeem?
-	el: "Ποια θα ήταν τα πιθανά πλεονεκτήματα ενός τέτοιου συστήματος;"
+    el: "Ποια θα ήταν τα πιθανά πλεονεκτήματα ενός τέτοιου συστήματος;"
   to: everyone
   type: open_question
   odf:
@@ -478,7 +478,7 @@
     pl: "Jakie byłyby potencjalne wady takiego systemu?"
     en: What would be the possible disadvantages of such a system?
     nl: Wat zijn de mogelijke nadelen van een dergelijk systeem?
-	el: "Ποια θα ήταν τα πιθανά μειονεκτήματα ενός τέτοιου συστήματος;"
+    el: "Ποια θα ήταν τα πιθανά μειονεκτήματα ενός τέτοιου συστήματος;"
   to: everyone
   type: open_question
   odf:
@@ -492,7 +492,7 @@
     pl: "Jakie mogłaby być motywacja do rejestrowania utworów przez posiadaczy praw?"
     en: What incentives for registration by rightholders could be envisaged?
     nl: Welke prikkels voor registratie door de rechthebbenden kunnen worden overwogen?
-	el: "Τι κίνητρα θα μπορούσαν να προβλεφθούν ώστε οι δικαιούχοι να επιλέξουν την εγγραφή;"
+    el: "Τι κίνητρα θα μπορούσαν να προβλεφθούν ώστε οι δικαιούχοι να επιλέξουν την εγγραφή;"
   to: everyone
   type: open_question
   odf:
@@ -506,7 +506,7 @@
     pl: "Jaka powinna być rola Unii Europejskiej w promowaniu upowszechnienia się identyfikatorów w sektorze kreatywnym i w promowaniu rozwoju oraz interoperacyjności baz danych o uprawnionych oraz udzielonych licencjach"
     en: "What should be the role of the EU in promoting the adoption of identifiers in the content sector, and in promoting the development and interoperability of rights ownership and permissions databases?"
     nl: Wat moet de rol van de EU zijn bij het bevorderen van de goedkeuring van identificatielabels in de 'content' sector, en bij het bevorderen van de ontwikkeling en interoperabiliteit van rechteneigendom en machtigingen-databases?
-	el: "Ποιος θα πρέπει να είναι ο ρόλος της ΕΕ στην προώθηση της υιοθέτησης των αναγνωριστικών στον τομέα του περιεχομένου, καθώς και στην προώθηση της ανάπτυξης για τα διαλειτουργικά δικαιώματα και τα δικαιώματα ιδιοκτησίας σε βάσεις δεδομένων;"
+    el: "Ποιος θα πρέπει να είναι ο ρόλος της ΕΕ στην προώθηση της υιοθέτησης των αναγνωριστικών στον τομέα του περιεχομένου, καθώς και στην προώθηση της ανάπτυξης για τα διαλειτουργικά δικαιώματα και τα δικαιώματα ιδιοκτησίας σε βάσεις δεδομένων;"
   to: everyone
   type: open_question
   odf:
@@ -522,7 +522,7 @@
     es: "¿Siguen siendo los términos actuales de protección de derechos de autor apropiados en el entorno digital?"
     de: Sind die Längen der Schutzfristen im digitalen Zeitalter noch zeitgemäß?
     nl: Zijn de huidige termijnen van auteursrechtelijke bescherming nog steeds passend in de digitale omgeving?
-	el: "Είναι οι ισχύοντες όροι στην διάρκεια προστασίας των πνευματικών δικαιωμάτων κατάλληλοι και για το ψηφιακό περιβάλλον;"
+    el: "Είναι οι ισχύοντες όροι στην διάρκεια προστασίας των πνευματικών δικαιωμάτων κατάλληλοι και για το ψηφιακό περιβάλλον;"
   to: everyone
   type: multiple_choice
   options:
@@ -530,7 +530,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -543,7 +543,7 @@
     details:
       pl: "Wyjaśnij, czy powinien być dłuższy, czy krótszy"
       en: "Please explain if they should be longer or shorter"
-	  el: "Εξηγήστε εάν θα πρέπει να είναι μεγαλύτερη ή μικρότερη η διάρκεια"
+      el: "Εξηγήστε εάν θα πρέπει να είναι μεγαλύτερη ή μικρότερη η διάρκεια"
     fulltext: true
     odf:
       - action: mark
@@ -568,7 +568,7 @@
     nl: Zijn er problemen die voortvloeien uit het feit dat de meeste beperkingen en uitzonderingen bij de EU-richtlijnen inzake auteursrecht optioneel zijn voor de lidstaten?
     cz: Vede skutečnost, že četné výjimky ze směrnice ohledně autorského práva EU jsou pro členské země pouze dobrovolné, ke komplikacím?
     ro: Aceste probleme reies din faptul ca majoritata limitatiilor si exceptiilor prevazute in directivele de copyright UE sunt optionale pentru statele membre?
-	el: "Ποια προβλήματα προκύπτουν από το γεγονός ότι, οι περισσότεροι περιορισμοί και εξαιρέσεις που προβλέπονται στις οδηγίες πνευματικών δικαιωμάτων της ΕΕ είναι προαιρετικά για τα κράτη-μέλη;"
+    el: "Ποια προβλήματα προκύπτουν από το γεγονός ότι, οι περισσότεροι περιορισμοί και εξαιρέσεις που προβλέπονται στις οδηγίες πνευματικών δικαιωμάτων της ΕΕ είναι προαιρετικά για τα κράτη-μέλη;"
   to: everyone
   type: multiple_choice
   options:
@@ -576,7 +576,7 @@
     details:
       de: "Please explain by referring to specific cases"
       pl: "Wyjaśnij w oparciu o konkretne przypadki"
-	  el: "Εξηγήστε με αναφορά σε συγκεκριμένες περιπτώσεις"
+      el: "Εξηγήστε με αναφορά σε συγκεκριμένες περιπτώσεις"
     fulltext: true
     odf:
       - action: mark
@@ -589,7 +589,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -614,7 +614,7 @@
     nl: Moeten sommige / alle uitzonderingen verplicht worden gesteld en, zo ja, is er behoefte aan een hoger niveau van harmonisatie van dergelijke uitzonderingen?
     cz: Měly by být některé/všechy výjimky povinné a pokud ano, měly by být přísněji harmonizovány?
     ro: Crezi ca ar trebui ca unele/toate exceptii sa devina obligatorii; daca da, crezi ca este nevoie de un nivel mai crescut de armonizare a acestor exceptii?
-	el: "Αν κάποια/όλες οι εξαιρέσεις πρέπει να είναι υποχρεωτικές και, αν ναι, υπάρχει η ανάγκη για ένα υψηλότερο επίπεδο εναρμόνισης των εν λόγω εξαιρέσεων;"
+    el: "Αν κάποια/όλες οι εξαιρέσεις πρέπει να είναι υποχρεωτικές και, αν ναι, υπάρχει η ανάγκη για ένα υψηλότερο επίπεδο εναρμόνισης των εν λόγω εξαιρέσεων;"
   to: everyone
   type: multiple_choice
   options:
@@ -622,7 +622,7 @@
     details:
       en: "Please explain by referring to specific cases"
       pl: "Proszę wyjaśnić poprzez podanie konkretnych przykładów"
-	  el: "Εξηγήστε με αναφορά σε συγκεκριμένες περιπτώσεις"
+      el: "Εξηγήστε με αναφορά σε συγκεκριμένες περιπτώσεις"
     fulltext: true
     odf:
       - action: mark
@@ -635,7 +635,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -660,7 +660,7 @@
     nl: Moeten er nieuwe beperkingen en uitzonderingen worden toegevoegd aan of verwijderd uit de bestaande catalogus ? Gelieve te verklaren met verwijzing naar specifieke gevallen.
     cz: Měl by být současný seznam výjimek a omezení rozšířen či naopak zkrácen? Pokud ano, prosím vysvětlete.
     ro: Crezi ca trebuie adaugate noi limitari sau exceptii portofoliului existent de reglementari? Te rog explica prin referinta la cazuri specifice
-	el: "Υπάρχουν κάποιοι νέοι περιορισμοί και εξαιρέσεις που πρέπει να προστεθούν ή να αφαιρεθούν από τον υφιστάμενο κατάλογο; Παρακαλώ να εξηγήσετε με αναφορά σε συγκεκριμένες περιπτώσεις."
+    el: "Υπάρχουν κάποιοι νέοι περιορισμοί και εξαιρέσεις που πρέπει να προστεθούν ή να αφαιρεθούν από τον υφιστάμενο κατάλογο; Παρακαλώ να εξηγήσετε με αναφορά σε συγκεκριμένες περιπτώσεις."
   to: everyone
   type: open_question
   odf:
@@ -675,7 +675,7 @@
     en: "Independently from the questions above, is there a need to provide for a greater degree of flexibility in the EU regulatory framework for limitations and exceptions?"
     de: "Unabhängig von den letzten beiden Fragen, sollen die europäischen Regeln zu Ausnahmen vom Urheberrecht flexibler gestaltet werden?"
     nl: Is er, los van bovenstaande vragen, behoefte om te voorzien in een grotere mate van flexibiliteit in het EU-regelgevingskader voor beperkingen en uitzonderingen?
-	el: "Ανεξάρτητα από τα παραπάνω ερωτήματα, είναι ανάγκη να προβλεφθεί μεγαλύτερη ευελιξία στο κανονιστικό πλαίσιο της ΕΕ για τους περιορισμούς και τις εξαιρέσεις;"
+    el: "Ανεξάρτητα από τα παραπάνω ερωτήματα, είναι ανάγκη να προβλεφθεί μεγαλύτερη ευελιξία στο κανονιστικό πλαίσιο της ΕΕ για τους περιορισμούς και τις εξαιρέσεις;"
   to: everyone
   type: multiple_choice
   options:
@@ -683,7 +683,7 @@
     details:
       en: "Please explain why"
       pl: "Proszę wyjaśnić dlaczego"
-	  el: "Παρακαλώ να εξηγήσετε γιατί"
+      el: "Παρακαλώ να εξηγήσετε γιατί"
     fulltext: true
     odf:
       - action: mark
@@ -696,7 +696,7 @@
     details:
       en: "Please explain why"
       pl: "Proszę wyjaśnić dlaczego"
-	  el: "Παρακαλώ να εξηγήσετε γιατί"
+      el: "Παρακαλώ να εξηγήσετε γιατί"
     fulltext: true
     odf:
       - action: mark
@@ -715,7 +715,7 @@
     pl: "Jeśli tak, w jaki sposób najlepiej byłoby uwzględnić taką elastyczność? (np. interpretacja sądów pastwowych i Trybunału Sprawiedliwości, okresowe rewizje dyrektyw, interpretacje Komisji Europejskiej, wbudowana elastyczność, np. w formie fair use lub fair dealing / otwartej normy, itp.)? Proszę wyjaśnić, wskazując na relatywne zalety i wady takiego podejścia, a także jego potencjalny wpływ na funkcjonowanie Rynku Wewnętrznego."
     en: "If yes, what would be the best approach to provide for flexibility? (e.g. interpretation by national courts and the ECJ, periodic revisions of the directives, interpretations by the Commission, built-in flexibility, e.g. in the form of a fair-use or fair dealing provision / open norm, etc.)? Please explain indicating what would be the relative advantages and disadvantages of such an approach as well as its possible effects on the functioning of the Internal Market."
     nl: Zo ja, wat zou de beste aanpak zijn om te zorgen voor flexibiliteit? (zoals interpretatie door de nationale rechter en het Hof van Justitie, periodieke herzieningen van de richtlijnen, interpretaties door de Commissie, ingebouwde flexibiliteit, bijvoorbeeld in de vorm van een voorziening voor fair-use of fair dealing / open normen, etc.)? Gelieve uit te leggen door aan te geven wat de relatieve voor- en nadelen van een dergelijke aanpak zouden zijn, alsmede de mogelijke effecten op de werking van de interne markt.
-	el: "Εάν ναι, ποια θα ήταν η καλύτερη προσέγγιση για την παροχή ευελιξίας; (πχ. ερμηνεία από τα εθνικά δικαστήρια και από το ECJ, περιοδικές αναθεωρήσεις των οδηγιών, ερμηνείες από την Επιτροπή, ενσωματωμένη ευελιξία, πχ. με τη μορφή μιας δίκαιης χρήσης ή μιας θεμιτής δίκαιης χρήσης διάταξη/ανοιχτό πρότυπο, κλπ.); Παρακαλώ να εξηγήσετε αναφέροντας ποια θα είναι τα συγκριτικά πλεονεκτήματα και τα μειονεκτήματα μιας τέτοιας προσέγγισης, καθώς και τις πιθανές επιπτώσεις της στη λειτουργία της εσωτερικής αγοράς."
+    el: "Εάν ναι, ποια θα ήταν η καλύτερη προσέγγιση για την παροχή ευελιξίας; (πχ. ερμηνεία από τα εθνικά δικαστήρια και από το ECJ, περιοδικές αναθεωρήσεις των οδηγιών, ερμηνείες από την Επιτροπή, ενσωματωμένη ευελιξία, πχ. με τη μορφή μιας δίκαιης χρήσης ή μιας θεμιτής δίκαιης χρήσης διάταξη/ανοιχτό πρότυπο, κλπ.); Παρακαλώ να εξηγήσετε αναφέροντας ποια θα είναι τα συγκριτικά πλεονεκτήματα και τα μειονεκτήματα μιας τέτοιας προσέγγισης, καθώς και τις πιθανές επιπτώσεις της στη λειτουργία της εσωτερικής αγοράς."
   to: everyone
   type: open_question
   odf:
@@ -729,7 +729,7 @@
     pl: "Czy na podstawie Państwa doświadczenia, terytorialny zakres ograniczeń i wyjątków stanowi problem?"
     en: "Does the territoriality of limitations and exceptions, in your experience, constitute a problem?"
     nl: Vormen de territorialiteit van de beperkingen en de uitzonderingen, in uw ervaring, een probleem?
-	el: "Μήπως η εδαφικότητα των περιορισμών και των εξαιρέσεων, από την εμπειρία σου, θα αποτελεί ένα πρόβλημα;"
+    el: "Μήπως η εδαφικότητα των περιορισμών και των εξαιρέσεων, από την εμπειρία σου, θα αποτελεί ένα πρόβλημα;"
   to: everyone
   type: multiple_choice
   options:
@@ -737,7 +737,7 @@
     details:
       en: "Please explain why and specify which exceptions you are referring to"
       pl: "Proszę wyjaśnić dlaczego i podać do jakich wyjątków się odnosisz"
-	  el: "Παρακαλώ να εξηγήσετε γιατί και να καθορίσετε σε ποιες εξαιρέσεις αναφέρεστε"
+      el: "Παρακαλώ να εξηγήσετε γιατί και να καθορίσετε σε ποιες εξαιρέσεις αναφέρεστε"
     fulltext: true
     odf:
       - action: mark
@@ -750,7 +750,7 @@
     details:
       en: "Please explain why and specify which exceptions you are referring to"
       pl: "Proszę wyjaśnić dlaczego i podać do jakich wyjątków się odnosisz"
-	  el: "Παρακαλώ να εξηγήσετε γιατί και να καθορίσετε σε ποιες εξαιρέσεις αναφέρεστε"
+      el: "Παρακαλώ να εξηγήσετε γιατί και να καθορίσετε σε ποιες εξαιρέσεις αναφέρεστε"
     fulltext: true
     odf:
       - action: mark
@@ -768,7 +768,7 @@
   text:
     pl: 'Jeżeli ograniczenia i wyjątki ustanowione na poziomie krajowym miałyby być skuteczne za granicą, w jaki sposób powinno się uregulować kwestię "słusznej rekompensaty", jeżeli taka rekompensata jest częścią wyjątku? (np. kto płaci komu, gdzie?)'
     en: "In the event that limitations and exceptions established at national level were to have cross-border effect, how should the question of “fair compensation” be addressed, when such compensation is part of the exception? (e.g. who pays whom, where?)"
-	el: 'Σε περίπτωση που οι περιορισμοί και οι εξαιρέσεις που καθορίζονται σε εθνικό επίπεδο, θα έχουν διασυνοριακές επιπτώσεις, πώς θα πρέπει να αντιμετωπιστεί το ζήτημα της “δίκαιης αποζημίωσης”, όταν η αποζημίωση αποτελεί μέρος της εξαίρεσης; (πχ. ποιος πληρώνει ποιον, και πού;)'
+    el: 'Σε περίπτωση που οι περιορισμοί και οι εξαιρέσεις που καθορίζονται σε εθνικό επίπεδο, θα έχουν διασυνοριακές επιπτώσεις, πώς θα πρέπει να αντιμετωπιστεί το ζήτημα της “δίκαιης αποζημίωσης”, όταν η αποζημίωση αποτελεί μέρος της εξαίρεσης; (πχ. ποιος πληρώνει ποιον, και πού;)'
   to: everyone
   type: open_question
   odf:
@@ -783,8 +783,8 @@
     en: |
       (a) [In particular if you are an institutional user:] Have you experienced specific problems when trying to use an exception to preserve and archive specific works or other subject matter in your collection?
       (b) [In particular if you are a right holder:] Have you experienced problems with the use by libraries, educational establishments, museum or archives of the preservation exception?
-	el: |
-	  (α) [Συγκεκριμένα, αν είσαι ένας θεσμικός χρήστης:] Έχεις βιώσει συγκεκριμένα προβλήματα όταν προσπαθείς να χρησιμοποιήσεις μια εξαίρεση για τη διατήρηση και την αρχειοθέτηση ειδικών έργων ή άλλου υλικού στη συλλογή σου;
+    el: |
+      (α) [Συγκεκριμένα, αν είσαι ένας θεσμικός χρήστης:] Έχεις βιώσει συγκεκριμένα προβλήματα όταν προσπαθείς να χρησιμοποιήσεις μια εξαίρεση για τη διατήρηση και την αρχειοθέτηση ειδικών έργων ή άλλου υλικού στη συλλογή σου;
       (β) [Συγκεκριμένα, αν είσαι κάτοχος δικαιώματος:] Έχεις βιώσει προβλήματα με τη χρήση από τις βιβλιοθήκες, τα εκπαιδευτικά ιδρύματα, τα μουσεία ή τις αρχειοθήκες, της εξαίρεσης διατήρησης;
   to: switch
   type: multiple_choice
@@ -793,7 +793,7 @@
     details:
       en: "Please explain, by Member State, sector, and the type of use in question."
       pl: "Proszę wyjaśnić, podając kraj członkowski UE, sektor oraz co próbowali Państwo zrobić"
-	  el: "Παρακαλώ να εξηγήσετε, ανά κράτος-μέλος, τομέα, καθώς και το είδος της εν λόγω χρήσης."
+      el: "Παρακαλώ να εξηγήσετε, ανά κράτος-μέλος, τομέα, καθώς και το είδος της εν λόγω χρήσης."
     fulltext: true
     odf:
       - action: mark
@@ -815,7 +815,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
-	el: "Εάν υπάρχουν προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
+    el: "Εάν υπάρχουν προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
   to: everyone
   type: open_question
   odf:
@@ -828,7 +828,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie legislacyjne, jakie byłyby jego główne elementy? Jakie aktywności instytucji-beneficjentów powinno ono obejmować i na jakich warunkach?"
     en: "If your view is that a legislative solution is needed, what would be its main elements? Which activities of the beneficiary institutions should be covered and under which conditions?"
-	el: "Αν η άποψή σας είναι ότι απαιτείται νομοθετική λύση, ποια θα είναι τα κύρια χαρακτηριστικά της; Ποιες δραστηριότητες των δικαιούχων οργανισμών θα πρέπει να καλύπτονται και υπό ποιες προϋποθέσεις;"
+    el: "Αν η άποψή σας είναι ότι απαιτείται νομοθετική λύση, ποια θα είναι τα κύρια χαρακτηριστικά της; Ποιες δραστηριότητες των δικαιούχων οργανισμών θα πρέπει να καλύπτονται και υπό ποιες προϋποθέσεις;"
   to: everyone
   type: open_question
   odf:
@@ -841,7 +841,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie innego rodzaju, jakie ono by było?"
     en: "If your view is that a different solution is needed, what would it be?"
-	31: "Αν η άποψή σας είναι ότι χρειάζεται μια διαφορετική λύση, ποια θα ήταν αυτή;"
+    31: "Αν η άποψή σας είναι ότι χρειάζεται μια διαφορετική λύση, ποια θα ήταν αυτή;"
   to: everyone
   type: open_question
   odf:
@@ -860,8 +860,8 @@
       (a) [In particular if you are an institutional user:] Have you experienced specific problems when trying to negotiate agreements with rights holders that enable you to provide remote access, including across borders, to your collections (or parts thereof) for purposes of research and private study?
       (b) [In particular if you are an end user/consumer:] Have you experienced specific problems when trying to consult, including across borders, works and other subject-matter held in the collections of institutions such as universities and national libraries when you are not on the premises of the institutions in question?
       (c) [In particular if you are a right holder:] Have you negotiated agreements with institutional users that enable those institutions to provide remote access, including across borders, to the works or other subject-matter in their collections, for purposes of research and private study?
-	el: | 
-	  (α) [Συγκεκριμένα, αν είσαι ένας θεσμικός χρήστης:] Έχει αντιμετωπίσει συγκεκριμένα προβλήματα, στην προσπάθειά σου να διαπραγματευτείς συμφωνίες με τους κατόχους των δικαιωμάτων που να σου δίνουν τη δυνατότητα να παρέχεις απομακρυσμένη πρόσβαση, συμπεριλαμβανομένης και της διασυνοριακής, στις συλλογές σου (ή σε μέρος αυτών) για σκοπούς έρευνας και ιδιωτικής μελέτης;
+    el: | 
+      (α) [Συγκεκριμένα, αν είσαι ένας θεσμικός χρήστης:] Έχει αντιμετωπίσει συγκεκριμένα προβλήματα, στην προσπάθειά σου να διαπραγματευτείς συμφωνίες με τους κατόχους των δικαιωμάτων που να σου δίνουν τη δυνατότητα να παρέχεις απομακρυσμένη πρόσβαση, συμπεριλαμβανομένης και της διασυνοριακής, στις συλλογές σου (ή σε μέρος αυτών) για σκοπούς έρευνας και ιδιωτικής μελέτης;
       (β) [Συγκεκριμένα, αν είσαι ένας τελικός χρήστης/καταναλωτής:] Έχεις αντιμετωπίσει συγκεκριμένα προβλήματα, στην προσπάθεια πρόσβασης, συμπεριλαμβανομένης της διασυνοριακής, σε έργα και άλλο προστατευόμενο αντικείμενο που διατηρούνται στις συλλογές ιδρυμάτων, όπως τα πανεπιστήμια και τις εθνικές βιβλιοθήκες, όταν δεν βρίσκεσαι στις εγκαταστάσεις των εν λόγω ιδρυμάτων;
       (γ) [Συγκεκριμένα, αν είσαι κάτοχος δικαιωμάτων:] Έχεις διαπραγματευτεί συμφωνίες με θεσμικούς χρήστες που να επιτρέπουν σε αυτά τα ιδρύματα να παρέχουν απομακρυσμένη πρόσβαση, συμπεριλαμβανομένης και της διασυνοριακής, σε έργα ή άλλο αντικείμενο στις συλλογές τους, για σκοπούς έρευνας και ιδιωτικής μελέτης;
   to: switch
@@ -876,7 +876,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
-	el: "Εάν υπάρξουν προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
+    el: "Εάν υπάρξουν προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
   to: everyone
   type: open_question
   odf:
@@ -889,7 +889,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie ustawowe, jakie byłyby jego główne elementy? Jakie aktywności instytucji-beneficjentów powinno ono obejmować i na jakich warunkach?"
     en: "If your view is that a legislative solution is needed, what would be its main elements? Which activities of the beneficiary institutions should be covered and under which conditions?"
-	el: "Αν η άποψή σας είναι ότι απαιτείται νομοθετική λύση, ποια θα είναι τα κύρια χαρακτηριστικά της; Ποιες δραστηριότητες των δικαιούχων οργανισμών θα πρέπει να καλύπτονται και υπό ποιες προϋποθέσεις;"
+    el: "Αν η άποψή σας είναι ότι απαιτείται νομοθετική λύση, ποια θα είναι τα κύρια χαρακτηριστικά της; Ποιες δραστηριότητες των δικαιούχων οργανισμών θα πρέπει να καλύπτονται και υπό ποιες προϋποθέσεις;"
   to: everyone
   type: open_question
   odf:
@@ -902,7 +902,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie innego rodzaju, jakie ono by było?"
     en: "If your view is that a different solution is needed, what would it be?"
-	el: "Αν η άποψή σας είναι ότι χρειάζεται μια διαφορετική λύση, ποια  θα ήταν αυτή;"
+    el: "Αν η άποψή σας είναι ότι χρειάζεται μια διαφορετική λύση, ποια  θα ήταν αυτή;"
   to: everyone
   type: open_question
   odf:
@@ -921,8 +921,8 @@
       (a) [In particular if you are a library:] Have you experienced specific problems when trying to negotiate agreements to enable the electronic lending (e-lending), including across borders, of books or other materials held in your collection?
       (b) [In particular if you are an end user/consumer:] Have you experienced specific problems when trying to borrow books or other materials electronically (e-lending), including across borders, from institutions such as public libraries?
       (c) [In particular if you are a right holder:] Have you negotiated agreements with libraries to enable them to lend books or other materials electronically, including across borders?
-	el: |
-	  (α) [Συγκεκριμένα, αν είσαι μια βιβλιοθήκη:] Έχεις αντιμετωπίσει συγκεκριμένα προβλήματα, στην προσπάθειά σου να διαπραγματευτείς  συμφωνίες για να παρέχεις ηλεκτρονικό δανεισμό (e-δανεισμός), συμπεριλαμβανομένου και διασυνοριακά, των βιβλίων ή άλλων υλικών που διατηρείς στη συλλογή σου;
+    el: |
+      (α) [Συγκεκριμένα, αν είσαι μια βιβλιοθήκη:] Έχεις αντιμετωπίσει συγκεκριμένα προβλήματα, στην προσπάθειά σου να διαπραγματευτείς  συμφωνίες για να παρέχεις ηλεκτρονικό δανεισμό (e-δανεισμός), συμπεριλαμβανομένου και διασυνοριακά, των βιβλίων ή άλλων υλικών που διατηρείς στη συλλογή σου;
       (β) [Συγκεκριμένα, αν είσαι ένας τελικός χρήστης/καταναλωτής:] Έχεις βιώσει συγκεκριμένα προβλήματα, στην προσπάθειά σου να  δανειστείς βιβλία ή άλλο υλικό σε ηλεκτρονική μορφή (e-δανεισμός), συμπεριλαμβανομένου και διασυνοριακά, από ιδρύματα, όπως δημόσιες βιβλιοθήκες;
       (γ) [Συγκεκριμένα, αν είσαι κάτοχος δικαιωμάτων:] Έχεις διαπραγματευτεί συμφωνίες με βιβλιοθήκες για να τους δώσεις τη δυνατότητα να δανείζουν βιβλία ή άλλο υλικό με ηλεκτρονικά μέσα, συμπεριλαμβανομένου και διασυνοριακά;
   to: switch
@@ -932,7 +932,7 @@
     details:
       en: "Please explain with specific examples"
       pl: "Proszę wyjaśnić poprzez podanie konkretnych przykładów"
-	  el: "Παρακαλώ να εξηγήσετε με συγκεκριμένα παραδείγματα"
+      el: "Παρακαλώ να εξηγήσετε με συγκεκριμένα παραδείγματα"
     fulltext: true
     odf:
       - action: mark
@@ -954,7 +954,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
-	el: "Εάν υπάρξουν προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
+    el: "Εάν υπάρξουν προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
   to: everyone
   type: open_question
   odf:
@@ -967,7 +967,7 @@
   text:
     pl: "Jakie widzą Państwo różnice w zarządzaniu kolekcjami fizycznie istniejącymi i kolekcjami online, z uwzględnieniem zapewnienia dostępu do nich Państwa subskrybentom? Jakie napotkali Państwo problemy?"
     en: "What differences do you see in the management of physical and online collections, including providing access to your subscribers? What problems have you encountered?"
-	el: "Ποιες διαφορές βλέπεις στην διαχείριση των φυσικών (αναλογικών) και των σε απευθείας σύνδεση, συλλογών, συμπεριλαμβανομένης της παροχής πρόσβασης στους συνδρομητές σας; Ποια προβλήματα έχεις αντιμετωπίσει;"
+    el: "Ποιες διαφορές βλέπεις στην διαχείριση των φυσικών (αναλογικών) και των σε απευθείας σύνδεση, συλλογών, συμπεριλαμβανομένης της παροχής πρόσβασης στους συνδρομητές σας; Ποια προβλήματα έχεις αντιμετωπίσει;"
   to: institutional user
   type: open_question
   odf:
@@ -980,7 +980,7 @@
   text:
     pl: "Jakie widzą Państwo różnice między tradycyjną działalnością bibliotek taką jak korzystanie z kolekcji na miejscu lub wypożyczanie i działalnością zdalną (online, z daleka) taką jak zdalne korzystanie z kolekcji i e-wypożyczanie? Jakie napotkali Państwo problemy?"
     en: "What difference do you see between libraries’ traditional activities such as on-premises consultation or public lending and activities such as off-premises (online, at a distance) consultation and e-lending? What problems have you encountered?"
-	el: "Ποια διαφορά βλέπεις μεταξύ των παραδοσιακών δραστηριοτήτων των βιβλιοθηκών, όπως στην επί τόπου πρόσβαση και τον δημόσιο δανεισμό και στις δραστηριότητες όπως στην εκτός χώρου (δηλ. σε απευθείας σύνδεση, εξ' αποστάσεως) πρόσβαση και τον e-δανεισμό; Ποια προβλήματα έχεις αντιμετωπίσει;"
+    el: "Ποια διαφορά βλέπεις μεταξύ των παραδοσιακών δραστηριοτήτων των βιβλιοθηκών, όπως στην επί τόπου πρόσβαση και τον δημόσιο δανεισμό και στις δραστηριότητες όπως στην εκτός χώρου (δηλ. σε απευθείας σύνδεση, εξ' αποστάσεως) πρόσβαση και τον e-δανεισμό; Ποια προβλήματα έχεις αντιμετωπίσει;"
   to: right holder
   type: open_question
   odf:
@@ -993,7 +993,7 @@
   text:
     pl: "Czy w Państwa kraju byłoby konieczne wydanie przepisów prawnych, aby zapewnić, że rezultaty Porozumienia z 2001 r. (tj. umów zawartych pomiędzy bibliotekami i organizacjami zbiorowego zarządzania) są skuteczne transgranicznie, aby w całej Europie zapewnić dostęp do utworów niedostępnych w handlu?"
     en: "Would it be necessary in your country to enact legislation to ensure that the results of the 2011 MoU (i.e. the agreements concluded between libraries and collecting societies) have a cross-border effect so that out of commerce works can be accessed across the EU?"
-	el: "Θα ήταν απαραίτητο στη χώρα σου να θεσπιστεί νομοθεσία για να εξασφαλίσει ότι τα αποτελέσματα του Μνημονίου 2011 (δηλαδή οι συμφωνίες που έχουν συναφθεί μεταξύ των βιβλιοθηκών και των Οργανισμών Συλλογικής Διαχείρισης) θα έχουν διασυνοριακές επιπτώσεις, έτσι ώστε στα εμπορικά έργα να μπορεί να υπάρχει πρόσβαση από ολόκληρη την ΕΕ;"
+    el: "Θα ήταν απαραίτητο στη χώρα σου να θεσπιστεί νομοθεσία για να εξασφαλίσει ότι τα αποτελέσματα του Μνημονίου 2011 (δηλαδή οι συμφωνίες που έχουν συναφθεί μεταξύ των βιβλιοθηκών και των Οργανισμών Συλλογικής Διαχείρισης) θα έχουν διασυνοριακές επιπτώσεις, έτσι ώστε στα εμπορικά έργα να μπορεί να υπάρχει πρόσβαση από ολόκληρη την ΕΕ;"
   to: "institutional user, engaging or wanting to engage in mass digitalisation, a right holder, collective management organisation"
   type: multiple_choice
   options:
@@ -1001,7 +1001,7 @@
     details:
       en: "Please explain why and how it could best be achieved"
       pl: "Please wyjaśnić dlaczego i jak to może zostać osiągnięte"
-	  el: "Παρακαλώ να εξηγήσετε το γιατί και το πώς θα μπορούσε να επιτευχθεί αυτό με τον καλύτερο τρόπο"
+      el: "Παρακαλώ να εξηγήσετε το γιατί και το πώς θα μπορούσε να επιτευχθεί αυτό με τον καλύτερο τρόπο"
     fulltext: true
     odf:
       - action: mark
@@ -1014,7 +1014,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1032,7 +1032,7 @@
   text:
     pl: "Czy byłoby konieczne rozwijanie mechanizmów poza juz wypracowanymi dla innych typów treści (np. kolekcjami audio- i audiowizualnymi, archiwami nadawców)?"
     en: "Would it be necessary to develop mechanisms, beyond those already agreed for other types of content (e.g. for audio- or audio-visual collections, broadcasters’ archives)?"
-	el: "Είναι απαραίτητο να αναπτυχθούν μηχανισμοί, πέραν εκείνων που έχουν ήδη συμφωνηθεί, και για άλλους τύπους περιεχομένου (πχ. για ηχητικές συλλογές ή συλλογές ήχου-εικόνας, αρχεία ραδιοτηλεοπτικών φορέων, κτλ.);"
+    el: "Είναι απαραίτητο να αναπτυχθούν μηχανισμοί, πέραν εκείνων που έχουν ήδη συμφωνηθεί, και για άλλους τύπους περιεχομένου (πχ. για ηχητικές συλλογές ή συλλογές ήχου-εικόνας, αρχεία ραδιοτηλεοπτικών φορέων, κτλ.);"
   to: everyone
   type: multiple_choice
   options:
@@ -1040,7 +1040,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1053,7 +1053,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1075,8 +1075,8 @@
     en: |
       (a) [In particular if you are an end user/consumer or an institutional user:] Have you experienced specific problems when trying to use works or other subject-matter for illustration for teaching, including across borders?
       (b) [In particular if you are a right holder:] Have you experienced specific problems resulting from the way in which works or other subject-matter are used for illustration for teaching, including across borders?
-	el: |
-	  (α) [Συγκεκριμένα, αν είσαι ένας τελικός χρήστης/καταναλωτής ή ένας θεσμικός χρήστης:]Έχεις αντιμετωπίσει συγκεκριμένα προβλήματα στην προσπάθειά σου να χρησιμοποιήσεις έργα ή άλλο υλικό για απεικόνιση για τη διδασκαλία, συμπεριλαμβανομένου και διασυνοριακά;
+    el: |
+      (α) [Συγκεκριμένα, αν είσαι ένας τελικός χρήστης/καταναλωτής ή ένας θεσμικός χρήστης:]Έχεις αντιμετωπίσει συγκεκριμένα προβλήματα στην προσπάθειά σου να χρησιμοποιήσεις έργα ή άλλο υλικό για απεικόνιση για τη διδασκαλία, συμπεριλαμβανομένου και διασυνοριακά;
       (β) [Συγκεκριμένα, αν είσαι κάτοχος δικαιωμάτων:] Έχεις αντιμετωπίσει ειδικά προβλήματα που να προκύπτουν από τον τρόπο με τον οποίο τα έργα ή άλλο υλικό χρησιμοποιείται για απεικόνιση για διδασκαλία, συμπεριλαμβανομένου και διασυνοριακά;
   to: switch
   type: multiple_choice
@@ -1085,7 +1085,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1107,7 +1107,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
-	el: "Εάν υπάρχουν προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
+    el: "Εάν υπάρχουν προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
   to: everyone
   type: open_question
   odf:
@@ -1120,7 +1120,7 @@
   text:
     pl: "Jakie mechanizmy rynkowe ułatwiają korzystanie z treści w ramach nauczania? W jakim stopniu są one skuteczne?"
     en: What mechanisms exist in the market place to facilitate the use of content for illustration for teaching purposes? How successful are they?
-	el: "Ποιοι μηχανισμοί υπάρχουν στην αγορά για να διευκολυνθεί η χρήση του περιεχομένου για την απεικόνιση για διδακτικούς σκοπούς; Πόσο επιτυχείς είναι αυτοί;"
+    el: "Ποιοι μηχανισμοί υπάρχουν στην αγορά για να διευκολυνθεί η χρήση του περιεχομένου για την απεικόνιση για διδακτικούς σκοπούς; Πόσο επιτυχείς είναι αυτοί;"
   to: everyone
   type: open_question
   odf:
@@ -1133,7 +1133,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie ustawowe, jakie byłyby jego główne elementy?  Jakie aktywności instytucji-beneficjentów powinno ono obejmować i na jakich warunkach?"
     en: "If your view is that a legislative solution is needed, what would be its main elements? Which activities of the beneficiary institutions should be covered and under what conditions?"
-	el: "Αν η άποψή σας είναι ότι απαιτείται μια νομοθετική λύση, ποια θα ήταν τα κύρια χαρακτηριστικά της; Ποιες δραστηριότητες των δικαιούχων οργανισμών θα πρέπει να καλύπτονται και υπό ποιες προϋποθέσεις;"
+    el: "Αν η άποψή σας είναι ότι απαιτείται μια νομοθετική λύση, ποια θα ήταν τα κύρια χαρακτηριστικά της; Ποιες δραστηριότητες των δικαιούχων οργανισμών θα πρέπει να καλύπτονται και υπό ποιες προϋποθέσεις;"
   to: everyone
   type: open_question
   odf:
@@ -1146,7 +1146,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie innego rodzaju, jakie ono by było?"
     en: "If your view is that a different solution is needed, what would it be?"
-	el: "Αν η άποψή σας είναι ότι χρειάζεται μια διαφορετική λύση, ποια θα ήταν αυτή;"
+    el: "Αν η άποψή σας είναι ότι χρειάζεται μια διαφορετική λύση, ποια θα ήταν αυτή;"
   to: everyone
   type: open_question
   odf:
@@ -1163,9 +1163,9 @@
     en: |
       (a) [In particular if you are an end user/consumer or an institutional user:] Have you experienced specific problems when trying to use works or other subject matter in the context of research projects/activities, including across borders?
       (b) [In particular if you are a right holder:] Have you experienced specific problems resulting from the way in which works or other subject-matter are used in the context of research projects/activities, including across borders?
-	el: |
+    el: |
       (α) [Συγκεκριμένα, αν είσαι ένας τελικός χρήστης/ καταναλωτής ή ένας θεσμικός χρήστης:]Έχεις αντιμετωπίσει συγκεκριμένα προβλήματα στην προσπάθειά σου να χρησιμοποιήσεις έργα ή άλλο υλικό στο πλαίσιο ερευνητικών πρότζεκτ/δραστηριοτήτων, συμπεριλαμβανομένου και διασυνοριακά;
-      (β) [Συγκεκριμένα, αν είσαι κάτοχος δικαιωμάτων:] Έχεις αντιμετωπίσει ειδικά προβλήματα που να προκύπτουν από τον τρόπο με τον οποίο τα έργα ή άλλο υλικό χρησιμοποιείται στο πλαίσιο ερευνητικών πρότζεκτ/δραστηριοτήτων, συμπεριλαμβανομένου και διασυνοριακά;	
+      (β) [Συγκεκριμένα, αν είσαι κάτοχος δικαιωμάτων:] Έχεις αντιμετωπίσει ειδικά προβλήματα που να προκύπτουν από τον τρόπο με τον οποίο τα έργα ή άλλο υλικό χρησιμοποιείται στο πλαίσιο ερευνητικών πρότζεκτ/δραστηριοτήτων, συμπεριλαμβανομένου και διασυνοριακά;    
   to: switch
   type: multiple_choice
   options:
@@ -1173,7 +1173,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1195,7 +1195,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
-	el: "Εάν υπάρχουν προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
+    el: "Εάν υπάρχουν προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
   to: everyone
   type: open_question
   odf:
@@ -1208,7 +1208,7 @@
   text:
     pl: "Jakie mechanizmy istniejące w krajach członkowskich ułatwiają korzystanie z treści w celach badawczych? W jakim stopniu są one skuteczne?"
     en: What mechanisms exist in the Member States to facilitate the use of content for research purposes? How successful are they?
-	el: "Ποιοι μηχανισμοί υπάρχουν στα κράτη-μέλη για να διευκολύνουν τη χρήση του περιεχομένου για ερευνητικούς σκοπούς; Πόσο επιτυχείς είναι αυτοί;"
+    el: "Ποιοι μηχανισμοί υπάρχουν στα κράτη-μέλη για να διευκολύνουν τη χρήση του περιεχομένου για ερευνητικούς σκοπούς; Πόσο επιτυχείς είναι αυτοί;"
   to: everyone
   type: open_question
   odf:
@@ -1227,10 +1227,10 @@
       (a) [In particular if you are a person with a disability or an organisation representing persons with disabilities:] Have you experienced problems with accessibility to content, including across borders, arising from Member States’ implementation of this exception?
       (b) [In particular if you are an organisation providing services for persons with disabilities:] Have you experienced problems when distributing/communicating works published in special formats across the EU?
       (c) [In particular if you are a right holder:] Have you experienced specific problems resulting from the application of limitations or exceptions allowing for the distribution/communication of works published in special formats, including across borders?
-	el: |
+    el: |
       (α) [Συγκεκριμένα, εάν είσαι ένα άτομο με αναπηρία ή μια οργάνωση που εκπροσωπεί άτομα με αναπηρία:] Έχεις αντιμετωπίσει προβλήματα με την προσβασιμότητα στο περιεχόμενο, συμπεριλαμβανομένου και διασυνοριακά, που απορρέουν από την εφαρμογή αυτής της εξαίρεσης στα κράτη-μέλη;
       (β) [Συγκεκριμένα, αν είσαι ένας οργανισμός που παρέχει υπηρεσίες για άτομα με ειδικές ανάγκες:] Έχεις αντιμετωπίσει προβλήματα κατά τη διανομή/διάθεση έργων που δημοσιεύονται σε ειδικές μορφές σε ολόκληρη την ΕΕ;
-      (γ) [Συγκεκριμένα, αν είσαι κάτοχος δικαιωμάτων:] Έχεις αντιμετωπίσει συγκεκριμένα προβλήματα που να προκύπτουν από την εφαρμογή των περιορισμών ή εξαιρέσεων που επιτρέπουν τη διανομή/διάθεση έργων που έχουν δημοσιευθεί σε ειδικές μορφές, συμπεριλαμβανομένου και διασυνοριακά;	
+      (γ) [Συγκεκριμένα, αν είσαι κάτοχος δικαιωμάτων:] Έχεις αντιμετωπίσει συγκεκριμένα προβλήματα που να προκύπτουν από την εφαρμογή των περιορισμών ή εξαιρέσεων που επιτρέπουν τη διανομή/διάθεση έργων που έχουν δημοσιευθεί σε ειδικές μορφές, συμπεριλαμβανομένου και διασυνοριακά;    
   to: switch
   type: multiple_choice
   options:
@@ -1238,7 +1238,7 @@
     details:
       en: "Please explain by giving examples"
       pl: "Proszę wyjaśnić poprzez podanie przykładów"
-	  el: "Παρακαλώ να εξηγήσετε δίνοντας παραδείγματα"
+      el: "Παρακαλώ να εξηγήσετε δίνοντας παραδείγματα"
     fulltext: true
     odf:
       - action: mark
@@ -1260,7 +1260,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, co można zrobić, aby poprawić dostępność?"
     en: "If there are problems, what could be done to improve accessibility?"
-	el: "Εάν υπάρχουν προβλήματα, τι θα μπορούσε να γίνει για να βελτιωθεί η προσβασιμότητα;"
+    el: "Εάν υπάρχουν προβλήματα, τι θα μπορούσε να γίνει για να βελτιωθεί η προσβασιμότητα;"
   to: everyone
   type: open_question
   odf:
@@ -1273,7 +1273,7 @@
   text:
     pl: "Jakie istnieją mechanizmy rynkowe dostępu do treści? Czy i jak są skuteczne? "
     en: What mechanisms exist in the market place to facilitate accessibility to content? How successful are they?
-	el: "Ποιοι μηχανισμοί υπάρχουν στην αγορά για να διευκολύνουν την πρόσβαση στο περιεχόμενο; Πόσο επιτυχείς είναι αυτοί;"
+    el: "Ποιοι μηχανισμοί υπάρχουν στην αγορά για να διευκολύνουν την πρόσβαση στο περιεχόμενο; Πόσο επιτυχείς είναι αυτοί;"
   to: everyone
   type: open_question
   odf:
@@ -1295,7 +1295,7 @@
     el: |
       (α) [Συγκεκριμένα, αν είσαι ένας τελικός χρήστης/καταναλωτής ή ένας θεσμικός χρήστης:]Έχεις αντιμετωπίσει εμπόδια, που να συνδέονται με τα πνευματικά δικαιώματα, στην προσπάθειά σου να χρησιμοποιήσεις μεθόδους εξόρυξης σε κείμενο ή δεδομένα, συμπεριλαμβανομένου και σε διασυνοριακό επίπεδο;
       (β) [Συγκεκριμένα, αν είσαι ένας πάροχος υπηρεσιών:] Έχεις αντιμετωπίσει εμπόδια, που να συνδέονται με τα πνευματικά δικαιώματα, κατά την παροχή υπηρεσιών με βάση τις μεθόδους εξόρυξης σε κείμενο ή δεδομένα, συμπεριλαμβανομένου και σε διασυνοριακό επίπεδο;
-      (γ) [Συγκεκριμένα, αν είσαι κάτοχος δικαιωμάτων:] Έχεις αντιμετωπίσει συγκεκριμένα προβλήματα που να προκύπτουν από τη χρήση εξόρυξης σε κείμενο και δεδομένα, σε σχέση με την προστασία των πνευματικών δικαιωμάτων του περιεχομένου, συμπεριλαμβανομένου και σε διασυνοριακό επίπεδο;	
+      (γ) [Συγκεκριμένα, αν είσαι κάτοχος δικαιωμάτων:] Έχεις αντιμετωπίσει συγκεκριμένα προβλήματα που να προκύπτουν από τη χρήση εξόρυξης σε κείμενο και δεδομένα, σε σχέση με την προστασία των πνευματικών δικαιωμάτων του περιεχομένου, συμπεριλαμβανομένου και σε διασυνοριακό επίπεδο;    
   to: switch
   type: multiple_choice
   options:
@@ -1303,7 +1303,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1316,7 +1316,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1334,7 +1334,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
-	el: "Εάν υπάρχουν τέτοια προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
+    el: "Εάν υπάρχουν τέτοια προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
   to: everyone
   type: open_question
   odf:
@@ -1347,7 +1347,7 @@
   text:
     pl: "Jeżeli w Państwa opinii wymagane jest rozwiązanie ustawowe, jakie powinny być jego główne elementy? Jakie działania powinny być nim objęte i pod jakimi warunkami?"
     en: "If your view is that a legislative solution is needed, what would be its main elements? Which activities should be covered and under what conditions?"
-	el: "Αν η άποψή σας είναι ότι απαιτείται μια νομοθετική λύση, ποια θα ήταν τα κύρια στοιχεία της; Ποιες δραστηριότητες θα πρέπει να καλύπτονται και υπό ποιες συνθήκες;"
+    el: "Αν η άποψή σας είναι ότι απαιτείται μια νομοθετική λύση, ποια θα ήταν τα κύρια στοιχεία της; Ποιες δραστηριότητες θα πρέπει να καλύπτονται και υπό ποιες συνθήκες;"
   to: everyone
   type: open_question
   odf:
@@ -1360,7 +1360,7 @@
   text:
     pl: "Jeżeli w Państwa opinii konieczne jest inne rozwiązanie, to jakie ono powinno być?"
     en: "If your view is that a different solution is needed, what would it be?"
-	el: "Αν η άποψή σας είναι ότι χρειάζεται μια διαφορετική λύση, ποια θα ήταν αυτή;"
+    el: "Αν η άποψή σας είναι ότι χρειάζεται μια διαφορετική λύση, ποια θα ήταν αυτή;"
   to: everyone
   type: open_question
   odf:
@@ -1373,7 +1373,7 @@
   text:
     pl: "Czy są inne kwestie, niezwiązane z prawem autorskim, które stanowią przeszkody w korzystaniu z metod maszynowej analizy tekstów i danych?"
     en: "Are there other issues, unrelated to copyright, that constitute barriers to the use of text or data mining methods?"
-	el: "Υπάρχουν και άλλα θέματα, που δεν σχετίζονται με τα πνευματικά δικαιώματα, που να αποτελούν εμπόδια για τη χρήση μεθόδων στην εξόρυξη κειμένου ή δεδομένων;"
+    el: "Υπάρχουν και άλλα θέματα, που δεν σχετίζονται με τα πνευματικά δικαιώματα, που να αποτελούν εμπόδια για τη χρήση μεθόδων στην εξόρυξη κειμένου ή δεδομένων;"
   to: everyone
   type: open_question
   odf:
@@ -1420,10 +1420,10 @@
       (a) [Pentru consumatori/utilizatori:] Ai intampinat probleme incercand sa impartasesti pe internet lucrari noi bazate pe continutul unor lucrari deja existente, in special dincolo de granitele tarii tale?
       (b) [Pentru provideri:] Ai intampinat probleme cand utilizatorii au impartasit/publicat pe internet lucrari noi, bazate pe continutul unor lucrari deja existente, prin serviciul oferit de tine, in special dincolo de granitele tarii?
       (c) [Pentru detinatorii de drepturi] Ai intampinat probleme provenite din faptul ca utilizatorii impartasesc pe internet continut provenit din lucrari deja existente, in special dincolo de granitele tarii?
-	el: |
+    el: |
       (α) [Συγκεκριμένα, αν είσαι ένας τελικός χρήστης/καταναλωτής:] Έχεις αντιμετωπίσει προβλήματα στην προσπάθειά σου να χρησιμοποιήσεις προϋπάρχοντα έργα ή άλλο υλικό για να διαδώσεις νέο περιεχόμενο στο διαδίκτυο, συμπεριλαμβανομένου και σε διασυνοριακό επίπεδο;
       (β) [Συγκεκριμένα, αν είσαι ένας πάροχος υπηρεσιών:] Έχεις αντιμετωπίσει προβλήματα όταν οι χρήστες δημοσιεύουν/διαδίδουν νέο περιεχόμενο με βάση προϋπάρχοντα έργα ή άλλο υλικό μέσω της υπηρεσίας σου, συμπεριλαμβανομένου και σε διασυνοριακό επίπεδο;
-      (γ) [Συγκεκριμένα, αν είσαι κάτοχος δικαιωμάτων:] Έχεις αντιμετωπίσει προβλήματα που να προκύπτουν από τον τρόπο που οι χρήστες χρησιμοποιούν προϋπάρχοντα έργα ή άλλο υλικό για να διαδώσουν νέο περιεχόμενο στο διαδίκτυο, συμπεριλαμβανομένου και σε διασυνοριακό επίπεδο;	
+      (γ) [Συγκεκριμένα, αν είσαι κάτοχος δικαιωμάτων:] Έχεις αντιμετωπίσει προβλήματα που να προκύπτουν από τον τρόπο που οι χρήστες χρησιμοποιούν προϋπάρχοντα έργα ή άλλο υλικό για να διαδώσουν νέο περιεχόμενο στο διαδίκτυο, συμπεριλαμβανομένου και σε διασυνοριακό επίπεδο;    
   to: switch
   type: multiple_choice
   options:
@@ -1431,7 +1431,7 @@
     details:
       en: "Please explain by giving examples"
       pl: "Proszę wyjaśnić poprzez podanie przykładów"
-	  el: "Παρακαλώ να εξηγήσετε δίνοντας παραδείγματα"
+      el: "Παρακαλώ να εξηγήσετε δίνοντας παραδείγματα"
     fulltext: true
     odf:
       - action: mark
@@ -1457,9 +1457,9 @@
     en: |
       (a) [In particular if you are an end user/consumer or a right holder:] Have you experienced problems when trying to ensure that the work you have created (on the basis of pre-existing works) is properly identified for online use? Are proprietary systems sufficient in this context?
       (b) [In particular if you are a service provider:] Do you provide possibilities for users that are publishing/disseminating the works they have created (on the basis of pre-existing works) through your service to properly identify these works for online use?
-	el: |
+    el: |
       (α) [Συγκεκριμένα, αν είσαι ένας τελικός χρήστης/καταναλωτής ή δικαιούχος:] Έχεις αντιμετωπίσει προβλήματα όταν προσπαθείς να διασφαλίσεις ότι το έργο που έχεις δημιουργήσει (με βάση προϋπάρχοντα έργα) ταυτοποιείται δεόντως για online χρήση. Τα συστήματα ιδιοκτησίας επαρκούν στο πλαίσιο αυτό;
-      (β) [Συγκεκριμένα, αν είσαι ένας πάροχος υπηρεσιών:] Παρέχεις  δυνατότητες στους χρήστες που δημοσιεύουν/διαδίδουν έργα που έχουν δημιουργήσει (βάσει προϋπαρχόντων έργων) μέσω της υπηρεσίας σου για να προσδιοριστούν σωστά αυτά τα έργα για online χρήση;	
+      (β) [Συγκεκριμένα, αν είσαι ένας πάροχος υπηρεσιών:] Παρέχεις  δυνατότητες στους χρήστες που δημοσιεύουν/διαδίδουν έργα που έχουν δημιουργήσει (βάσει προϋπαρχόντων έργων) μέσω της υπηρεσίας σου για να προσδιοριστούν σωστά αυτά τα έργα για online χρήση;    
   to: switch
   type: multiple_choice
   options:
@@ -1467,7 +1467,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1480,7 +1480,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1502,7 +1502,7 @@
     en: |
       (a) [In particular if you are an end user/consumer or a right holder):] Have you experienced problems when trying to be remunerated for the use of the work you have created (on the basis of pre-existing works)?
       (b) [In particular if you are a service provider:] Do you provide remuneration schemes for users publishing/disseminating the works they have created (on the basis of pre-existing works) through your service?
-	el: |
+    el: |
       (α) [Συγκεκριμένα, αν είσαι ένας τελικός χρήστης/καταναλωτής ή δικαιούχος):]Έχεις αντιμετωπίσει προβλήματα στην προσπάθειά σου να λάβεις αμοιβή για τη χρήση του έργου που έχεις δημιουργήσει (βάσει προϋπαρχόντων έργων);
       (β) [Συγκεκριμένα, αν είσαι ένας πάροχος υπηρεσιών:] Παρέχεις  συστήματα αμοιβής στους χρήστες για την δημοσίευση/διάδοση των έργων που έχουν δημιουργήσει (βάσει προϋπαρχόντων έργων) μέσω της υπηρεσίας σου;
   to: switch
@@ -1512,7 +1512,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1525,7 +1525,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1543,7 +1543,7 @@
   text:
     pl: "Jeśli pojawiają się problemy, w jaki sposób najlepiej je rozwiązać?"
     en: "If there are problems, how would they best be solved?"
-	el: "Εάν υπάρχουν προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
+    el: "Εάν υπάρχουν προβλήματα, ποιος θα ήταν ο καλύτερος τρόπος για να λυθούν;"
   to: everyone
   type: open_question
   odf:
@@ -1556,7 +1556,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie ustawowe, jakie byłyby jego główne elementy?"
     en: "If your view is that a legislative solution is needed, what would be its main elements? Which activities should be covered and under what conditions?"
-	el: "Αν η άποψή σας είναι ότι απαιτείται μια νομοθετική λύση, ποια θα ήταν τα κύρια χαρακτηριστικά της; Ποιες δραστηριότητες θα πρέπει να καλύπτονται και υπό ποιες συνθήκες;"
+    el: "Αν η άποψή σας είναι ότι απαιτείται μια νομοθετική λύση, ποια θα ήταν τα κύρια χαρακτηριστικά της; Ποιες δραστηριότητες θα πρέπει να καλύπτονται και υπό ποιες συνθήκες;"
   to: everyone
   type: open_question
   odf:
@@ -1569,7 +1569,7 @@
   text:
     pl: "Jeśli uważają Państwo, że potrzebne jest rozwiązanie innego rodzaju, jakie ono by było?"
     en: "If your view is that a different solution is needed, what would it be?"
-	el: "Αν η άποψή σας είναι ότι χρειάζεται μια διαφορετική λύση, ποια θα ήταν αυτή;"
+    el: "Αν η άποψή σας είναι ότι χρειάζεται μια διαφορετική λύση, ποια θα ήταν αυτή;"
   to: everyone
   type: open_question
   odf:
@@ -1588,7 +1588,7 @@
     it: Secondo voi, c'è la necessità di chiarificare a livello di Unione europea lo scopo e l'applicazione delle eccezioni di copia e fotocopia ad uso personale nel mondo digitale?
     cz: Domníváte se, že je nezbytné, aby byly současné výjimky z celoevropského autorského práva pro soukromé kopírování uplatněny také v digitálním prostředí?
     ro: Din punctul tau de vedere, crezi ca este nevoie de o clarificare la nivel UE in legătura cu aplicarea unor exceptii legale cu privire la copierea si reprografierea (multiplicarea imaginilor) in spatiul digital?
-	el: "Κατά την άποψή σου, είναι απαραίτητο να διευκρινιστεί σε επίπεδο ΕΕ, το πεδίο εφαρμογής και η εφαρμογή εξαιρέσεων στην ιδιωτική αντιγραφή και στο reprography[50] στο ψηφιακό περιβάλλον;"
+    el: "Κατά την άποψή σου, είναι απαραίτητο να διευκρινιστεί σε επίπεδο ΕΕ, το πεδίο εφαρμογής και η εφαρμογή εξαιρέσεων στην ιδιωτική αντιγραφή και στο reprography[50] στο ψηφιακό περιβάλλον;"
   to: everyone
   type: multiple_choice
   options:
@@ -1596,7 +1596,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1609,7 +1609,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1627,7 +1627,7 @@
   text:
     pl: "Czy kopie cyfrowe sporządzane przez użytkowników końcowych na własne potrzeby w ramach usługi autoryzowanej przez posiadaczy praw, gdy szkoda dla uprawnionych jest minimalna, powinny być objęte systemem opłat rekompensacyjnych (private copying levies)?"
     en: "Should digital copies made by end users for private purposes in the context of a service that has been licensed by rightholders, and where the harm to the rightholder is minimal, be subject to private copying levies?"
-	el: "Σε περίπτωση που δημιουργούνται ψηφιακά αντίγραφα από τους τελικούς χρήστες για ιδιωτικούς σκοπούς, στο πλαίσιο μιας υπηρεσίας που έχει λάβει άδεια από τους δικαιούχους και όπου η ζημία στον δικαιούχο είναι ελάχιστη, να υπόκεινται σε τέλη αυτά τα ιδιωτικά αντίγραφα;"
+    el: "Σε περίπτωση που δημιουργούνται ψηφιακά αντίγραφα από τους τελικούς χρήστες για ιδιωτικούς σκοπούς, στο πλαίσιο μιας υπηρεσίας που έχει λάβει άδεια από τους δικαιούχους και όπου η ζημία στον δικαιούχο είναι ελάχιστη, να υπόκεινται σε τέλη αυτά τα ιδιωτικά αντίγραφα;"
   to: everyone
   type: multiple_choice
   options:
@@ -1635,7 +1635,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1648,7 +1648,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1666,7 +1666,7 @@
   text:
     pl: "W jaki sposób zmiany w systemie opłat poprzez zastosowanie ich do usług online (np. usług wykorzystująca chmurę obliczeniową, pozwalając użytkownikom korzystać z kopii na różnych urządzeniach) wpłynęłyby na rozwój i funkcjonowanie z jednej strony nowych modeli biznesowych, a z drugiej strony na przychody uprawnionych?"
     en: "How would changes in levies with respect to the application to  online services (e.g. services based on cloud computing  allowing, for instance, users to have copies on different devices) impact the development and functioning of new business models on the one hand and rightholders’ revenue on the other?"
-	el: "Πώς οι μεταβολές των εισφορών σε σχέση με την εφαρμογή τους σε online υπηρεσίες (πχ. υπηρεσίες που βασίζονται στο cloud computing επιτρέπουν, για παράδειγμα, οι χρήστες τους να έχουν αντίγραφα σε διαφορετικές συσκευές) επηρεάζουν την ανάπτυξη και τη λειτουργία των νέων επιχειρηματικών μοντέλων αφενός και των εσόδων των δικαιούχων αφετέρου;"
+    el: "Πώς οι μεταβολές των εισφορών σε σχέση με την εφαρμογή τους σε online υπηρεσίες (πχ. υπηρεσίες που βασίζονται στο cloud computing επιτρέπουν, για παράδειγμα, οι χρήστες τους να έχουν αντίγραφα σε διαφορετικές συσκευές) επηρεάζουν την ανάπτυξη και τη λειτουργία των νέων επιχειρηματικών μοντέλων αφενός και των εσόδων των δικαιούχων αφετέρου;"
   to: everyone
   type: open_question
   odf:
@@ -1679,7 +1679,7 @@
   text:
     pl: "Jaką wartość dodaną stanowi umieszczanie informacji o opłatach na fakturach za produkty, których opłaty dotyczą?"
     en: Would you see an added value in making levies visible on the invoices for products subject to levies?
-	el: "Βλέπεις μια προστιθέμενη αξία στο να γίνουν ορατές οι εισφορές στα τιμολόγια για τα προϊόντα που υπόκεινται σε εισφορές;"
+    el: "Βλέπεις μια προστιθέμενη αξία στο να γίνουν ορατές οι εισφορές στα τιμολόγια για τα προϊόντα που υπόκεινται σε εισφορές;"
   to: everyone
   type: multiple_choice
   options:
@@ -1687,7 +1687,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1700,7 +1700,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1718,7 +1718,7 @@
   text:
     pl: "Czy spotkali się Państwo z transakcją trasgraniczną, której wynikiem było uiszczenie nienależnych opłat lub podwójne uiszczenie tej samej opłaty lub inne przeszkody w wolnym obrocie dóbr i usług?"
     en: "Have you experienced a situation where a cross-border transaction resulted in undue levy payments, or duplicate payments of the same levy, or other obstacles to the free movement of goods or services?"
-	el: "Έχεις αντιμετωπίσει μια κατάσταση όπου μια διασυνοριακή συναλλαγή οδήγησε σε αχρεωστήτως καταβληθέντα ποσά εισφοράς ή διπλές πληρωμές της ίδιας εισφοράς ή άλλα εμπόδια, στην ελεύθερη κυκλοφορία των αγαθών ή των υπηρεσιών;"
+    el: "Έχεις αντιμετωπίσει μια κατάσταση όπου μια διασυνοριακή συναλλαγή οδήγησε σε αχρεωστήτως καταβληθέντα ποσά εισφοράς ή διπλές πληρωμές της ίδιας εισφοράς ή άλλα εμπόδια, στην ελεύθερη κυκλοφορία των αγαθών ή των υπηρεσιών;"
   to: everyone
   type: multiple_choice
   options:
@@ -1726,7 +1726,7 @@
     details:
       en: "Please specify the type of transaction and indicate the percentage of the undue payments. Please also indicate how a priori exemption and/or ex post reimbursement schemes could help to remedy the situation."
       pl: "Proszę określić rodzaj transakcji i określić procentowo skalę nienależnych płatności. Proszę także określić jak mechanizmy zwalniania z opłat a priori i/lub zwrotu kosztów mogłyby pomóc w rozwiązywaniu takich sytuacji."
-	  el: "Παρακαλώ να προσδιορίσετε το είδος της συναλλαγής και να αναφερθεί το ποσοστό των αχρεωστήτως καταβληθέντων ποσών. Παρακαλώ να αναφέρετε επίσης πώς καθεστώτα a priori απαλλαγής ή/και η εκ των υστέρων επιστροφής, θα μπορούσαν να συμβάλουν στην αντιμετώπιση της κατάστασης."
+      el: "Παρακαλώ να προσδιορίσετε το είδος της συναλλαγής και να αναφερθεί το ποσοστό των αχρεωστήτως καταβληθέντων ποσών. Παρακαλώ να αναφέρετε επίσης πώς καθεστώτα a priori απαλλαγής ή/και η εκ των υστέρων επιστροφής, θα μπορούσαν να συμβάλουν στην αντιμετώπιση της κατάστασης."
     fulltext: true
     odf:
       - action: mark
@@ -1739,7 +1739,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1757,7 +1757,7 @@
   text:
     pl: "Jaki procent produktów objętych opłatami jest sprzedawany osobom innym niż osobom, których naturalnym celem ewidentnie nie jest kopiowanie na użytek własny? Czy którekolwiek z tych transakcji skutkuje nienależnymi płatnościami? Proszę szczegółowo wyjaśnić, podając przykłady (typ produktów, rodzaj transakcji, udziałowcy, etc.)"
     en: "What percentage of products subject to a levy is sold to persons other than natural persons for purposes clearly unrelated to private copying? Do any of those transactions result in undue payments? Please explain in detail the example you provide (type of products, type of transaction, stakeholders, etc.)."
-	el: "Ποιο είναι το ποσοστό των προϊόντων που υπόκεινται σε εισφορά που πωλείται σε άλλα πρόσωπα πλην των φυσικών προσώπων για σκοπούς προδήλως ξένους προς την ιδιωτική αντιγραφή; Μήπως κάποιες από αυτές τις συναλλαγές έχουν ως αποτέλεσμα αδικαιολόγητες πληρωμές; Παρακαλώ να εξηγήσετε λεπτομερώς το παράδειγμα που παρέχετε (το είδος των προϊόντων, το είδος της συναλλαγής, τους  συμμετέχοντες, κλπ.)."
+    el: "Ποιο είναι το ποσοστό των προϊόντων που υπόκεινται σε εισφορά που πωλείται σε άλλα πρόσωπα πλην των φυσικών προσώπων για σκοπούς προδήλως ξένους προς την ιδιωτική αντιγραφή; Μήπως κάποιες από αυτές τις συναλλαγές έχουν ως αποτέλεσμα αδικαιολόγητες πληρωμές; Παρακαλώ να εξηγήσετε λεπτομερώς το παράδειγμα που παρέχετε (το είδος των προϊόντων, το είδος της συναλλαγής, τους  συμμετέχοντες, κλπ.)."
   to: everyone
   type: open_question
   odf:
@@ -1770,7 +1770,7 @@
   text:
     pl: "Jeśli zdarzają się takie nienależne płatności, jakiego procentu sprzedaży to dotyczy? W jakim stopniu zwolnienia  z opłat a priori oraz/lub systemy refundacji ex post istniejące w niektórych krajach członkowskich stanowią środek zaradczy w takich sytuacjach?"
     en: "Where such undue payments arise, what percentage of trade do they affect? To what extent could a priori exemptions and/or ex post reimbursement schemes existing in some Member States help to remedy the situation?"
-	el: "Πού προκύπτουν τέτοια αχρεωστήτως καταβληθέντα ποσά, ποιο είναι το ποσοστό των συναλλαγών που δεν επηρεάζουν; Σε ποιο βαθμό θα μπορούσε οι a priori απαλλαγές ή/και τα συστήματα εκ των υστέρων αποζημίωσης που υπάρχουν σε ορισμένα κράτη-μέλη να βοηθήσουν να διορθωθεί η κατάσταση;"
+    el: "Πού προκύπτουν τέτοια αχρεωστήτως καταβληθέντα ποσά, ποιο είναι το ποσοστό των συναλλαγών που δεν επηρεάζουν; Σε ποιο βαθμό θα μπορούσε οι a priori απαλλαγές ή/και τα συστήματα εκ των υστέρων αποζημίωσης που υπάρχουν σε ορισμένα κράτη-μέλη να βοηθήσουν να διορθωθεί η κατάσταση;"
   to: everyone
   type: open_question
   odf:
@@ -1783,7 +1783,7 @@
   text:
     pl: "Jeśli zidentyfikowali Państwo problemy związane z obecnymi funkcjonowaniem systemu opłat, jakie widzą Państwo rozwiązania?"
     en: "If you have identified specific problems with the current functioning of the levy system, how would these problems best be solved?"
-	el: "Αν έχεις εντοπίσει συγκεκριμένα προβλήματα με την τρέχουσα λειτουργία του συστήματος εισφοράς, πώς θα μπορούσε αυτά τα προβλήματα να επιλυθούν καλύτερα;"
+    el: "Αν έχεις εντοπίσει συγκεκριμένα προβλήματα με την τρέχουσα λειτουργία του συστήματος εισφοράς, πώς θα μπορούσε αυτά τα προβλήματα να επιλυθούν καλύτερα;"
   to: everyone
   type: open_question
   odf:
@@ -1802,7 +1802,7 @@
     it: Qual è il miglior meccanismo (o combinazione di meccanismi) per assicurarsi di ricevere adeguata remunerazione per lo sfuttamento delle vostre opere e performance?
     cz: Jakým způsobem se domníváte mohou být vaše náklady nejlépe pokryty v případě užití vašeho díla, práce nebo vystoupení někým jiným?
     ro: Care este cel mai bun mecanism (sau combinatie de mecanisme) care sa te asigure ca vei primi o remuneratie adecvata in schimbul exploatarii lucrarilor sau performantelor tale artistice?
-	el: "Ποιος είναι ο καλύτερος μηχανισμός (ή συνδυασμός μηχανισμών) για να εξασφαλίσει ότι θα λάβεις επαρκή αμοιβή για την εκμετάλλευση των έργων και τις ερμηνείες σου;"
+    el: "Ποιος είναι ο καλύτερος μηχανισμός (ή συνδυασμός μηχανισμών) για να εξασφαλίσει ότι θα λάβεις επαρκή αμοιβή για την εκμετάλλευση των έργων και τις ερμηνείες σου;"
   to: author/performer
   type: open_question
   odf:
@@ -1815,7 +1815,7 @@
   text:
     pl: "Czy istnieje potrzeba działania na poziomie europejskim (na przykład w celu  zakazania stosowania określonych postanowień umownych)?"
     en: Is there a need to act at the EU level (for instance to prohibit certain clauses in contracts)?
-	el: "Υπάρχει ανάγκη για ενέργειες σε επίπεδο ΕΕ (για παράδειγμα, η απαγόρευση ορισμένων ρητρών στις συμβάσεις);"
+    el: "Υπάρχει ανάγκη για ενέργειες σε επίπεδο ΕΕ (για παράδειγμα, η απαγόρευση ορισμένων ρητρών στις συμβάσεις);"
   to: everyone
   type: multiple_choice
   options:
@@ -1823,7 +1823,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1835,7 +1835,7 @@
   - label: 'No'
     details:
       en: "Please explain why"
-	  el: "Παρακαλώ να εξηγήσετε γιατί"
+      el: "Παρακαλώ να εξηγήσετε γιατί"
     fulltext: true
     odf:
       - action: mark
@@ -1859,7 +1859,7 @@
     it: Se ritenete che le regole attuali non siano effettive, in che modo suggerite di trattare le carenze da voi identificate?
     cz: Jste-li toho názoru, že jsou současná pravidla neefektivní, jak byste je byli ochotni změnit, aby lépe adresovaly problémy, se kterémi se setkáváte?
     ro: Daca consideri ca regulile existente sunt ineficiente, ce ai sugera pentru a indrepta defectele identificate?
-	el: "Αν θεωρείς ότι οι ισχύοντες κανόνες δεν είναι αποτελεσματικοί, τι έχεις να προτείνεις για την αντιμετώπιση των ελλείψεων που έχεις εντοπίσει;"
+    el: "Αν θεωρείς ότι οι ισχύοντες κανόνες δεν είναι αποτελεσματικοί, τι έχεις να προτείνεις για την αντιμετώπιση των ελλείψεων που έχεις εντοπίσει;"
   to: everyone
   type: open_question
   odf:
@@ -1872,7 +1872,7 @@
   text:
     pl: "Czy system sankcji cywilnych w UE powinien być bardziej wydajny w przypadku naruszeń dokonanych w celu komercyjnym?"
     en: Should the civil enforcement system in the EU be rendered more efficient for infringements of copyright committed with a commercial purpose?
-	el: "Θα πρέπει το σύστημα της πολιτικής επιβολής στην ΕΕ να καταστεί πιο αποτελεσματικό για την μη-τήρηση των πνευματικών δικαιωμάτων που διαπράττονται για εμπορικούς σκοπούς;"
+    el: "Θα πρέπει το σύστημα της πολιτικής επιβολής στην ΕΕ να καταστεί πιο αποτελεσματικό για την μη-τήρηση των πνευματικών δικαιωμάτων που διαπράττονται για εμπορικούς σκοπούς;"
   to: everyone
   type: multiple_choice
   options:
@@ -1880,7 +1880,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1893,7 +1893,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1911,7 +1911,7 @@
   text:
     pl: "Czy obecny system prawny jest wystarczająco jasny, aby pozwolić na zadowalające zaangażowanie pośredników (takich jak dostawcy usług internetowych, brokerzy reklamowi, dostawcy usług płatniczych, rejestratorzy domen, itd.) w ograniczanie naruszeń prawa autorskiego dokonywanych w celach komercyjnych? Jeżeli nie, to jakie środki byłyby przydatne w celu usprawnienia współpracy pośredników?"
     en: "In particular, is the current legal framework  clear enough to allow for  sufficient involvement of intermediaries (such as Internet service providers, advertising brokers, payment service providers, domain name registrars, etc.) in inhibiting online copyright infringements with a commercial purpose? If not, what measures would be useful to foster the cooperation of intermediaries?"
-	el: "Ειδικότερα, το ισχύον νομικό πλαίσιο είναι αρκετά σαφές ώστε να επιτρέπει την επαρκή συμμετοχή των ενδιάμεσων φορέων (όπως οι πάροχοι υπηρεσιών διαδικτύου, οι διαφημιστικοί μεσίτες, οι πάροχοι υπηρεσιών πληρωμών, οι καταχωρητές ονομάτων τομέων, κλπ.) στην αναστολή της online μη-τήρησης των πνευματικών δικαιωμάτων για εμπορικούς σκοπούς; Εάν όχι, ποια μέτρα θα ήταν χρήσιμα για την ενίσχυση της συνεργασίας των μεσαζόντων;"
+    el: "Ειδικότερα, το ισχύον νομικό πλαίσιο είναι αρκετά σαφές ώστε να επιτρέπει την επαρκή συμμετοχή των ενδιάμεσων φορέων (όπως οι πάροχοι υπηρεσιών διαδικτύου, οι διαφημιστικοί μεσίτες, οι πάροχοι υπηρεσιών πληρωμών, οι καταχωρητές ονομάτων τομέων, κλπ.) στην αναστολή της online μη-τήρησης των πνευματικών δικαιωμάτων για εμπορικούς σκοπούς; Εάν όχι, ποια μέτρα θα ήταν χρήσιμα για την ενίσχυση της συνεργασίας των μεσαζόντων;"
   to: everyone
   type: open_question
   odf:
@@ -1930,7 +1930,7 @@
     it: L'attuale infrastruttura civile assicura che si raggiunga un giusto equilibrio tra il rispetto dei diritti d'autore ed altri diritti come ad esempio la protezione della vita privata e dei dati personali?
     cz: Zajišťuje současný rámec v oblasti vymáhání práv dostatečnou rovnováhu mezi zájmy vlastníků práv a zájmy jednotlivců chránit své soukromí a osobní data?
     ro: Crezi ca actualul cadru de ordine civila asigura mentinerea unei balante corecte intre dreptul de a respecta drepturile de autor si alte drepturi, cum ar fi protecia vietii private si protectia datelor cu caracter personal?
-	el: "Μήπως το τρέχον πλαίσιο της πολιτικής επιβολής, εξασφαλίζει ότι η σωστή ισορροπία επιτυγχάνεται μεταξύ του δικαιώματος κάποιου να τηρούνται τα πνευματικά του δικαιώματα και τα άλλα δικαιώματα, όπως η προστασία της ιδιωτικότητας και η προστασία των προσωπικών δεδομένων;"
+    el: "Μήπως το τρέχον πλαίσιο της πολιτικής επιβολής, εξασφαλίζει ότι η σωστή ισορροπία επιτυγχάνεται μεταξύ του δικαιώματος κάποιου να τηρούνται τα πνευματικά του δικαιώματα και τα άλλα δικαιώματα, όπως η προστασία της ιδιωτικότητας και η προστασία των προσωπικών δεδομένων;"
   to: everyone
   type: multiple_choice
   options:
@@ -1938,7 +1938,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1951,7 +1951,7 @@
     details:
       pl: "Wyjaśnij dlaczego"
       en: "Please explain"
-	  el: "Εξηγήστε"
+      el: "Εξηγήστε"
     fulltext: true
     odf:
       - action: mark
@@ -1970,7 +1970,7 @@
     pl: "Czy UE powinna starać się o wprowadzenie jednolitego prawa autorskiego UE jako sposobu na ustanowienie spójnych ram dla uprawnień i wyjątków od prawa autorskiego na terenie całej UE, jak również jednolitych ram egzekwowania praw?"
     en: "Should the EU pursue the establishment of a single EU Copyright Title, as a means of establishing a consistent framework for rights and exceptions to copyright across the EU, as well as a single framework for enforcement?"
     de: Soll die EU ein gemeinsames europäisches Urheberrecht verabschieden, das in allen Ländern die gleichen Regeln für Rechte, Ausnahmen und Durchsetzung festlegt?
-	el: "Πρέπει να επιδιώξει η ΕΕ τη δημιουργία ενός ενιαίου τίτλου Πνευματικών Δικαιωμάτων της ΕΕ, ως μέσο για την δημιουργία ενός συνεπούς πλαισίου για τα δικαιώματα και τις εξαιρέσεις των πνευματικών δικαιωμάτων σε ολόκληρη την ΕΕ, καθώς και ένα ενιαίο πλαίσιο για την επιβολή τους;"
+    el: "Πρέπει να επιδιώξει η ΕΕ τη δημιουργία ενός ενιαίου τίτλου Πνευματικών Δικαιωμάτων της ΕΕ, ως μέσο για την δημιουργία ενός συνεπούς πλαισίου για τα δικαιώματα και τις εξαιρέσεις των πνευματικών δικαιωμάτων σε ολόκληρη την ΕΕ, καθώς και ένα ενιαίο πλαίσιο για την επιβολή τους;"
   to: everyone
   type: multiple_choice
   options:
@@ -1992,7 +1992,7 @@
     pl: "Czy to powinien być kolejny krok w rozwoju prawa autorskiego w UE? Czy obecny poziom zróżnicowania prawnego wśród państw członkowskich oznacza, że jest to projekt długoterminowy?"
     en: Should this be the next step in the development of copyright in the EU? Does the current level of difference among the Member State legislation mean that this is a longer term project?
     de: Sollte die Schaffung eines gemeinsamen europäischen Urheberrechts der nächste Schritt der EU in Sachen Urheberrecht sein? Oder muss man das wegen der großen Unterschiede in den Mitgliedstaaten langsam angehen lassen?
-	el: "Αν αυτό είναι το επόμενο βήμα στην ανάπτυξη για τα πνευματικά δικαιώματα σην ΕΕ, μήπως το τρέχον επίπεδο διαφορών στην νομοθεσία μεταξύ των κρατών-μελών σημαίνει ότι, κάτι τέτοιο θα είναι και ένα μακροπρόθεσμο έργο;"
+    el: "Αν αυτό είναι το επόμενο βήμα στην ανάπτυξη για τα πνευματικά δικαιώματα σην ΕΕ, μήπως το τρέχον επίπεδο διαφορών στην νομοθεσία μεταξύ των κρατών-μελών σημαίνει ότι, κάτι τέτοιο θα είναι και ένα μακροπρόθεσμο έργο;"
   to: everyone
   type: open_question
   odf:
@@ -2012,7 +2012,7 @@
     nl: Zijn er andere belangrijke zaken die samenhangen met het rechtssysteem voor copyright in de EU?  Leg uit en toon aan hoe zulke zaken moeten worden aangepakt.
     cz: Lze ještě uvést další témata spojená s evropským právním rámcem pro autoské právo? Prosím vysvětlete a uveďte jak mohou být tato témata adresována.
     ro: Mai exista si alte subiecte importante legate de prevederile Dreptului de Autor in UE? Te rog explica si indica cum aceste probleme ar putea fi mediate.
-	el: "Υπάρχουν και άλλα σημαντικά θέματα που σχετίζονται με το νομικό πλαίσιο της ΕΕ για τα πνευματικά δικαιώματα, επιπλέον αυτών εδώ; Παρακαλώ να εξηγήσετε και να αναφέρετε και το πώς πρέπει να αντιμετωπιστούν τα θέματα αυτά."
+    el: "Υπάρχουν και άλλα σημαντικά θέματα που σχετίζονται με το νομικό πλαίσιο της ΕΕ για τα πνευματικά δικαιώματα, επιπλέον αυτών εδώ; Παρακαλώ να εξηγήσετε και να αναφέρετε και το πώς πρέπει να αντιμετωπιστούν τα θέματα αυτά."
   to: everyone
   type: open_question
   odf:
